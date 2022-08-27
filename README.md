@@ -12,7 +12,7 @@ Running on port 3005
 
 ### Server - se souvenir du git
 
-git remote set-url origin https://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@github.com/NicolasMarafetti/videogamestools.git
+git remote set-url origin https://<token>@github.com/NicolasMarafetti/videogamestools.git
 
 ### Deploying with pm2
 
