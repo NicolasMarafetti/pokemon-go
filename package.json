@@ -5,9 +5,9 @@
     "seed": "ts-node --compiler-options {\"module\":\"CommonJS\"} prisma/seed.ts"
   },
   "scripts": {
-    "dev": "next dev -p 3003",
+    "dev": "next dev -p 3005",
     "build": "next build",
-    "start": "next start -p 3003",
+    "start": "next start -p 3005",
     "seed": "npx prisma db push --force-reset && npx prisma db seed",
     "build-stats": "cross-env ANALYZE=true npm run build",
     "export": "next export",
@@ -18,8 +18,8 @@
     "test": "jest",
     "cypress": "cypress open",
     "cypress:headless": "cypress run",
-    "e2e": "start-server-and-test dev http://localhost:3003 cypress",
-    "e2e:headless": "start-server-and-test dev http://localhost:3003 cypress:headless",
+    "e2e": "start-server-and-test dev http://localhost:3005 cypress",
+    "e2e:headless": "start-server-and-test dev http://localhost:3005 cypress:headless",
     "prepare": "husky install"
   },
   "dependencies": {
