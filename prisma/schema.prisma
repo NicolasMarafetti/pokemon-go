@@ -1,0 +1,43 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model Evolution{
+  id                    String        @id @default(auto()) @map("_id") @db.ObjectId
+  pokemon_start         String        
+  pokemon_after         String
+  candy_quantity        Int
+  special_item          String?
+}
+
+model Pokemon {
+  id                    String        @id @default(auto()) @map("_id") @db.ObjectId
+  name                  String        @unique
+  main_type             String        @default("Normal")
+  best_quick_move_dps   Float
+  best_main_move_dps    Float
+  attack                Int
+  defense               Int
+  max_hp                Int
+  total_dps             Float
+  attack_power          Float
+  defense_power         Float
+  fighting_duration     Float
+  total_power           Float
+  power_max_potential   Float
+  image_name            String
+}
+
+model Variable{
+  id                    String        @id @default(auto()) @map("_id") @db.ObjectId
+  name                  String @unique
+  value                 Float
+}
