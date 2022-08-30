@@ -40,11 +40,8 @@ export default function TestPokemon(props: TestPokemonProps) {
     setState({ ...state, loading: true });
 
     const pokemonId = pokemonInput.current!.value;
-    const fastAttackDps = parseInt(fastAttackInput.current!.value, 10);
-    const principalAttackDps = parseInt(
-      principalAttackInput.current!.value,
-      10
-    );
+    const fastAttackDps = parseFloat(fastAttackInput.current!.value);
+    const principalAttackDps = parseFloat(principalAttackInput.current!.value);
 
     const body = { pokemonId, fastAttackDps, principalAttackDps };
 

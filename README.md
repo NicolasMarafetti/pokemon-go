@@ -16,4 +16,4 @@ git remote set-url origin https://<token>@github.com/NicolasMarafetti/videogames
 
 ### Deploying with pm2
 
-pm2 start npm --time --name "videogamestools" -- start
+pm2 start npm --time --name "pokemon-go" -- start

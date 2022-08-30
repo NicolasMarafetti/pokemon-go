@@ -1,0 +1,801 @@
+[{
+  "_id": {
+    "$oid": "630a05af948a5c7c0a6d3659"
+  },
+  "pokemon_start": "630a0169948a5c7c0a6d3657",
+  "pokemon_after": "630a0190948a5c7c0a6d3658",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a0600948a5c7c0a6d365b"
+  },
+  "pokemon_start": "630a0190948a5c7c0a6d3658",
+  "pokemon_after": "630a05ee948a5c7c0a6d365a",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a0d88191f61ad90e342de"
+  },
+  "pokemon_start": "630a0d4b191f61ad90e342dc",
+  "pokemon_after": "630a0d74191f61ad90e342dd",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a0d94191f61ad90e342df"
+  },
+  "pokemon_start": "630a0d4b191f61ad90e342dc",
+  "pokemon_after": "630a011a948a5c7c0a6d3655",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a2ed74ef7fdc39e6e7ab5"
+  },
+  "pokemon_start": "630a2dd94ef7fdc39e6e7ab2",
+  "pokemon_after": "630a2e224ef7fdc39e6e7ab3",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a2ee54ef7fdc39e6e7ab6"
+  },
+  "pokemon_start": "630a2e224ef7fdc39e6e7ab3",
+  "pokemon_after": "630a2ec24ef7fdc39e6e7ab4",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a2ffc4ef7fdc39e6e7aba"
+  },
+  "pokemon_start": "630a2f4d4ef7fdc39e6e7ab8",
+  "pokemon_after": "630a2f874ef7fdc39e6e7ab9",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a30734ef7fdc39e6e7abd"
+  },
+  "pokemon_start": "630a30284ef7fdc39e6e7abb",
+  "pokemon_after": "630a30444ef7fdc39e6e7abc",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a320d4ef7fdc39e6e7ac0"
+  },
+  "pokemon_start": "630a31e64ef7fdc39e6e7abe",
+  "pokemon_after": "630a32004ef7fdc39e6e7abf",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a32664ef7fdc39e6e7ac3"
+  },
+  "pokemon_start": "630a323f4ef7fdc39e6e7ac1",
+  "pokemon_after": "630a32584ef7fdc39e6e7ac2",
+  "candy_quantity": 200,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a32bc4ef7fdc39e6e7ac6"
+  },
+  "pokemon_start": "630a32964ef7fdc39e6e7ac4",
+  "pokemon_after": "630a32af4ef7fdc39e6e7ac5",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a33354ef7fdc39e6e7aca"
+  },
+  "pokemon_start": "630a32ea4ef7fdc39e6e7ac7",
+  "pokemon_after": "630a33034ef7fdc39e6e7ac8",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a333e4ef7fdc39e6e7acb"
+  },
+  "pokemon_start": "630a33034ef7fdc39e6e7ac8",
+  "pokemon_after": "630a33264ef7fdc39e6e7ac9",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a33c74ef7fdc39e6e7acf"
+  },
+  "pokemon_start": "630a33704ef7fdc39e6e7acc",
+  "pokemon_after": "630a33914ef7fdc39e6e7acd",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a33d14ef7fdc39e6e7ad0"
+  },
+  "pokemon_start": "630a33914ef7fdc39e6e7acd",
+  "pokemon_after": "630a33b44ef7fdc39e6e7ace",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a34494ef7fdc39e6e7ad4"
+  },
+  "pokemon_start": "630a34014ef7fdc39e6e7ad1",
+  "pokemon_after": "630a341b4ef7fdc39e6e7ad2",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a34534ef7fdc39e6e7ad5"
+  },
+  "pokemon_start": "630a341b4ef7fdc39e6e7ad2",
+  "pokemon_after": "630a343a4ef7fdc39e6e7ad3",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a34d34ef7fdc39e6e7ad9"
+  },
+  "pokemon_start": "630a348f4ef7fdc39e6e7ad6",
+  "pokemon_after": "630a34a84ef7fdc39e6e7ad7",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a34dd4ef7fdc39e6e7ada"
+  },
+  "pokemon_start": "630a34a84ef7fdc39e6e7ad7",
+  "pokemon_after": "630a34c44ef7fdc39e6e7ad8",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a353f4ef7fdc39e6e7ade"
+  },
+  "pokemon_start": "630a35004ef7fdc39e6e7adb",
+  "pokemon_after": "630a35164ef7fdc39e6e7adc",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a35474ef7fdc39e6e7adf"
+  },
+  "pokemon_start": "630a35164ef7fdc39e6e7adc",
+  "pokemon_after": "630a352f4ef7fdc39e6e7add",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a35b34ef7fdc39e6e7ae3"
+  },
+  "pokemon_start": "630a35714ef7fdc39e6e7ae0",
+  "pokemon_after": "630a358f4ef7fdc39e6e7ae1",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a35bc4ef7fdc39e6e7ae4"
+  },
+  "pokemon_start": "630a358f4ef7fdc39e6e7ae1",
+  "pokemon_after": "630a35a64ef7fdc39e6e7ae2",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a36834ef7fdc39e6e7ae7"
+  },
+  "pokemon_start": "630a36634ef7fdc39e6e7ae5",
+  "pokemon_after": "630a36794ef7fdc39e6e7ae6",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a371b4ef7fdc39e6e7aeb"
+  },
+  "pokemon_start": "630a36e04ef7fdc39e6e7ae8",
+  "pokemon_after": "630a36f54ef7fdc39e6e7ae9",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a37244ef7fdc39e6e7aec"
+  },
+  "pokemon_start": "630a36f54ef7fdc39e6e7ae9",
+  "pokemon_after": "630a370e4ef7fdc39e6e7aea",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a37704ef7fdc39e6e7aef"
+  },
+  "pokemon_start": "630a37494ef7fdc39e6e7aed",
+  "pokemon_after": "630a37604ef7fdc39e6e7aee",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a37c34ef7fdc39e6e7af2"
+  },
+  "pokemon_start": "630a37914ef7fdc39e6e7af0",
+  "pokemon_after": "630a013f948a5c7c0a6d3656",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a37cb4ef7fdc39e6e7af3"
+  },
+  "pokemon_start": "630a013f948a5c7c0a6d3656",
+  "pokemon_after": "630a37b74ef7fdc39e6e7af1",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a382e4ef7fdc39e6e7af7"
+  },
+  "pokemon_start": "630a37f04ef7fdc39e6e7af4",
+  "pokemon_after": "630a38074ef7fdc39e6e7af5",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a38364ef7fdc39e6e7af8"
+  },
+  "pokemon_start": "630a38074ef7fdc39e6e7af5",
+  "pokemon_after": "630a381e4ef7fdc39e6e7af6",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a388c4ef7fdc39e6e7afc"
+  },
+  "pokemon_start": "630a38594ef7fdc39e6e7af9",
+  "pokemon_after": "630a386c4ef7fdc39e6e7afa",
+  "candy_quantity": 12,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a38974ef7fdc39e6e7afd"
+  },
+  "pokemon_start": "630a386c4ef7fdc39e6e7afa",
+  "pokemon_after": "630a38814ef7fdc39e6e7afb",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a390d4ef7fdc39e6e7b01"
+  },
+  "pokemon_start": "630a38c74ef7fdc39e6e7afe",
+  "pokemon_after": "630a38e04ef7fdc39e6e7aff",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a391f4ef7fdc39e6e7b02"
+  },
+  "pokemon_start": "630a38e04ef7fdc39e6e7aff",
+  "pokemon_after": "630a38f74ef7fdc39e6e7b00",
+  "candy_quantity": 100,
+  "special_item": "Pierre Sinnoh"
+},{
+  "_id": {
+    "$oid": "630a46f64ef7fdc39e6e7b09"
+  },
+  "pokemon_start": "630a45be4ef7fdc39e6e7b04",
+  "pokemon_after": "630a45e54ef7fdc39e6e7b05",
+  "candy_quantity": 50,
+  "special_item": "Pierre Unys"
+},{
+  "_id": {
+    "$oid": "630a477f4ef7fdc39e6e7b0d"
+  },
+  "pokemon_start": "630a47264ef7fdc39e6e7b0a",
+  "pokemon_after": "630a475b4ef7fdc39e6e7b0b",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a478a4ef7fdc39e6e7b0e"
+  },
+  "pokemon_start": "630a475b4ef7fdc39e6e7b0b",
+  "pokemon_after": "630a476e4ef7fdc39e6e7b0c",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a4d25779dce336f2e8bc4"
+  },
+  "pokemon_start": "630a47bb4ef7fdc39e6e7b0f",
+  "pokemon_after": "630a47d34ef7fdc39e6e7b10",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a4f94779dce336f2e8bc8"
+  },
+  "pokemon_start": "630a4f6a779dce336f2e8bc6",
+  "pokemon_after": "630a4f85779dce336f2e8bc7",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a5ada779dce336f2e8bca"
+  },
+  "pokemon_start": "630a47d34ef7fdc39e6e7b10",
+  "pokemon_after": "630a5a7e779dce336f2e8bc9",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a5da9779dce336f2e8bce"
+  },
+  "pokemon_start": "630a5d79779dce336f2e8bcc",
+  "pokemon_after": "630a5d9d779dce336f2e8bcd",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a5f1f779dce336f2e8bd1"
+  },
+  "pokemon_start": "630a5ee9779dce336f2e8bcf",
+  "pokemon_after": "630a5f0f779dce336f2e8bd0",
+  "candy_quantity": 100,
+  "special_item": "Pierre Sinnoh"
+},{
+  "_id": {
+    "$oid": "630a5f86779dce336f2e8bd3"
+  },
+  "pokemon_start": "630a5f7b779dce336f2e8bd2",
+  "pokemon_after": "630a0001948a5c7c0a6d3650",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a5fca779dce336f2e8bd6"
+  },
+  "pokemon_start": "630a5fa7779dce336f2e8bd4",
+  "pokemon_after": "630a5fbe779dce336f2e8bd5",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6074779dce336f2e8bda"
+  },
+  "pokemon_start": "630a6035779dce336f2e8bd7",
+  "pokemon_after": "630a604c779dce336f2e8bd8",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6083779dce336f2e8bdb"
+  },
+  "pokemon_start": "630a604c779dce336f2e8bd8",
+  "pokemon_after": "630a6065779dce336f2e8bd9",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a60e1779dce336f2e8bdf"
+  },
+  "pokemon_start": "630a60a6779dce336f2e8bdc",
+  "pokemon_after": "630a60be779dce336f2e8bdd",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a60ea779dce336f2e8be0"
+  },
+  "pokemon_start": "630a60be779dce336f2e8bdd",
+  "pokemon_after": "630a60d4779dce336f2e8bde",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a612d779dce336f2e8be3"
+  },
+  "pokemon_start": "630a610c779dce336f2e8be1",
+  "pokemon_after": "630a6122779dce336f2e8be2",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a618b779dce336f2e8be7"
+  },
+  "pokemon_start": "630a614f779dce336f2e8be4",
+  "pokemon_after": "630a6165779dce336f2e8be5",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6196779dce336f2e8be8"
+  },
+  "pokemon_start": "630a6165779dce336f2e8be5",
+  "pokemon_after": "630a617b779dce336f2e8be6",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a61de779dce336f2e8beb"
+  },
+  "pokemon_start": "630a61b5779dce336f2e8be9",
+  "pokemon_after": "630a00bd948a5c7c0a6d3653",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a61ed779dce336f2e8bec"
+  },
+  "pokemon_start": "630a00bd948a5c7c0a6d3653",
+  "pokemon_after": "630a61ce779dce336f2e8bea",
+  "candy_quantity": 100,
+  "special_item": "Pierre Sinnoh"
+},{
+  "_id": {
+    "$oid": "630a6242779dce336f2e8bef"
+  },
+  "pokemon_start": "630a6220779dce336f2e8bed",
+  "pokemon_after": "630a6236779dce336f2e8bee",
+  "candy_quantity": 400,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a628b779dce336f2e8bf2"
+  },
+  "pokemon_start": "630a6260779dce336f2e8bf0",
+  "pokemon_after": "630a627b779dce336f2e8bf1",
+  "candy_quantity": 50,
+  "special_item": "Pierre Unys"
+},{
+  "_id": {
+    "$oid": "630a6327779dce336f2e8bf6"
+  },
+  "pokemon_start": "630a6304779dce336f2e8bf4",
+  "pokemon_after": "630a631b779dce336f2e8bf5",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6381779dce336f2e8bfa"
+  },
+  "pokemon_start": "630a635e779dce336f2e8bf8",
+  "pokemon_after": "630a6373779dce336f2e8bf9",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a638e779dce336f2e8bfb"
+  },
+  "pokemon_start": "630a634a779dce336f2e8bf7",
+  "pokemon_after": "630a635e779dce336f2e8bf8",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a63d4779dce336f2e8bfe"
+  },
+  "pokemon_start": "630a63b0779dce336f2e8bfc",
+  "pokemon_after": "630a63c7779dce336f2e8bfd",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6456779dce336f2e8c03"
+  },
+  "pokemon_start": "630a6420779dce336f2e8c00",
+  "pokemon_after": "630a6434779dce336f2e8c01",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6460779dce336f2e8c04"
+  },
+  "pokemon_start": "630a6434779dce336f2e8c01",
+  "pokemon_after": "630a6449779dce336f2e8c02",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6526779dce336f2e8c08"
+  },
+  "pokemon_start": "630a64f0779dce336f2e8c05",
+  "pokemon_after": "630a6502779dce336f2e8c06",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6531779dce336f2e8c09"
+  },
+  "pokemon_start": "630a6502779dce336f2e8c06",
+  "pokemon_after": "630a6516779dce336f2e8c07",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6588779dce336f2e8c0c"
+  },
+  "pokemon_start": "630a6567779dce336f2e8c0a",
+  "pokemon_after": "630a657b779dce336f2e8c0b",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a65c3779dce336f2e8c0f"
+  },
+  "pokemon_start": "630a65a6779dce336f2e8c0d",
+  "pokemon_after": "630a65ba779dce336f2e8c0e",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6608779dce336f2e8c12"
+  },
+  "pokemon_start": "630a65e6779dce336f2e8c10",
+  "pokemon_after": "630a65fb779dce336f2e8c11",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a66a4779dce336f2e8c16"
+  },
+  "pokemon_start": "630a667e779dce336f2e8c14",
+  "pokemon_after": "630a6693779dce336f2e8c15",
+  "candy_quantity": 100,
+  "special_item": "Pierre Sinnoh"
+},{
+  "_id": {
+    "$oid": "630a6713779dce336f2e8c19"
+  },
+  "pokemon_start": "630a66f0779dce336f2e8c17",
+  "pokemon_after": "630a6706779dce336f2e8c18",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6768779dce336f2e8c1c"
+  },
+  "pokemon_start": "630a6746779dce336f2e8c1a",
+  "pokemon_after": "630a675b779dce336f2e8c1b",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a67c6779dce336f2e8c1f"
+  },
+  "pokemon_start": "630a67a6779dce336f2e8c1d",
+  "pokemon_after": "630a67bb779dce336f2e8c1e",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6826779dce336f2e8c22"
+  },
+  "pokemon_start": "630a6804779dce336f2e8c20",
+  "pokemon_after": "630a6817779dce336f2e8c21",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6864779dce336f2e8c26"
+  },
+  "pokemon_start": "630a6845779dce336f2e8c23",
+  "pokemon_after": "630a6859779dce336f2e8c24",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a68a2779dce336f2e8c29"
+  },
+  "pokemon_start": "630a6883779dce336f2e8c27",
+  "pokemon_after": "630a6896779dce336f2e8c28",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a68e7779dce336f2e8c2c"
+  },
+  "pokemon_start": "630a68c5779dce336f2e8c2a",
+  "pokemon_after": "630a68db779dce336f2e8c2b",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6941779dce336f2e8c30"
+  },
+  "pokemon_start": "630a6905779dce336f2e8c2d",
+  "pokemon_after": "630a691d779dce336f2e8c2e",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a69e5779dce336f2e8c35"
+  },
+  "pokemon_start": "630a69c2779dce336f2e8c33",
+  "pokemon_after": "630a69d6779dce336f2e8c34",
+  "candy_quantity": 100,
+  "special_item": "Pierre Sinnoh"
+},{
+  "_id": {
+    "$oid": "630a6a43779dce336f2e8c38"
+  },
+  "pokemon_start": "630a6a22779dce336f2e8c36",
+  "pokemon_after": "630a6a37779dce336f2e8c37",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6a80779dce336f2e8c3b"
+  },
+  "pokemon_start": "630a6a62779dce336f2e8c39",
+  "pokemon_after": "630a6a75779dce336f2e8c3a",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6ad8779dce336f2e8c3f"
+  },
+  "pokemon_start": "630a6aa4779dce336f2e8c3c",
+  "pokemon_after": "630a6ab8779dce336f2e8c3d",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6ae1779dce336f2e8c40"
+  },
+  "pokemon_start": "630a6ab8779dce336f2e8c3d",
+  "pokemon_after": "630a6acb779dce336f2e8c3e",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6b2f779dce336f2e8c43"
+  },
+  "pokemon_start": "630a0080948a5c7c0a6d3652",
+  "pokemon_after": "630a6b0f779dce336f2e8c41",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6b3a779dce336f2e8c44"
+  },
+  "pokemon_start": "630a6b0f779dce336f2e8c41",
+  "pokemon_after": "630a6b21779dce336f2e8c42",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6b76779dce336f2e8c46"
+  },
+  "pokemon_start": "630a00f5948a5c7c0a6d3654",
+  "pokemon_after": "630a6b5e779dce336f2e8c45",
+  "candy_quantity": 400,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6c0b779dce336f2e8c4a"
+  },
+  "pokemon_start": "630a6bea779dce336f2e8c48",
+  "pokemon_after": "630a6bfe779dce336f2e8c49",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6d2e779dce336f2e8c4d"
+  },
+  "pokemon_start": "630a6d09779dce336f2e8c4b",
+  "pokemon_after": "630a6d20779dce336f2e8c4c",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630a6da5779dce336f2e8c50"
+  },
+  "pokemon_start": "630a6d87779dce336f2e8c4e",
+  "pokemon_after": "630a6d9c779dce336f2e8c4f",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630af066faedc418e007ec43"
+  },
+  "pokemon_start": "630af039faedc418e007ec41",
+  "pokemon_after": "630af056faedc418e007ec42",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630af0c8faedc418e007ec47"
+  },
+  "pokemon_start": "630af08dfaedc418e007ec44",
+  "pokemon_after": "630af0a3faedc418e007ec45",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630af23efaedc418e007ec48"
+  },
+  "pokemon_start": "630af0a3faedc418e007ec45",
+  "pokemon_after": "630af0bcfaedc418e007ec46",
+  "candy_quantity": 100,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630af389faedc418e007ec52"
+  },
+  "pokemon_start": "630af29ffaedc418e007ec49",
+  "pokemon_after": "630af2b5faedc418e007ec4a",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630af3c8faedc418e007ec53"
+  },
+  "pokemon_start": "630af29ffaedc418e007ec49",
+  "pokemon_after": "630af2cdfaedc418e007ec4b",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630af3d6faedc418e007ec54"
+  },
+  "pokemon_start": "630af29ffaedc418e007ec49",
+  "pokemon_after": "630af2e5faedc418e007ec4c",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630af3e8faedc418e007ec55"
+  },
+  "pokemon_start": "630af29ffaedc418e007ec49",
+  "pokemon_after": "630af2fefaedc418e007ec4d",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630af3f1faedc418e007ec56"
+  },
+  "pokemon_start": "630af29ffaedc418e007ec49",
+  "pokemon_after": "630af314faedc418e007ec4e",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630af3fbfaedc418e007ec57"
+  },
+  "pokemon_start": "630af29ffaedc418e007ec49",
+  "pokemon_after": "630af32cfaedc418e007ec4f",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630af408faedc418e007ec58"
+  },
+  "pokemon_start": "630af29ffaedc418e007ec49",
+  "pokemon_after": "630af341faedc418e007ec50",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630af418faedc418e007ec59"
+  },
+  "pokemon_start": "630af29ffaedc418e007ec49",
+  "pokemon_after": "630af35afaedc418e007ec51",
+  "candy_quantity": 25,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630af476faedc418e007ec5c"
+  },
+  "pokemon_start": "630af454faedc418e007ec5a",
+  "pokemon_after": "630af469faedc418e007ec5b",
+  "candy_quantity": 50,
+  "special_item": ""
+},{
+  "_id": {
+    "$oid": "630af4d7faedc418e007ec5f"
+  },
+  "pokemon_start": "630af4b2faedc418e007ec5d",
+  "pokemon_after": "630af4cbfaedc418e007ec5e",
+  "candy_quantity": 50,
+  "special_item": ""
+}]

@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6308818d89091c5a72e2576c"
+  },
+  "name": "combat_duration",
+  "value": 6
+},{
+  "_id": {
+    "$oid": "6308818d89091c5a72e2576d"
+  },
+  "name": "final_calculation_divider",
+  "value": 918.68
+}]

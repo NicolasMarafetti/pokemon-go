@@ -1,0 +1,3241 @@
+[{
+  "_id": {
+    "$oid": "630a0001948a5c7c0a6d3650"
+  },
+  "name": "Donphan",
+  "best_quick_move_dps": 15.4,
+  "best_main_move_dps": 46.7,
+  "attack": 214,
+  "defense": 185,
+  "max_hp": 175,
+  "total_dps": 62.1,
+  "attack_power": 19934.1,
+  "defense_power": 32375,
+  "fighting_duration": 4.87,
+  "total_power": 56.94,
+  "power_max_potential": 56.94,
+  "image_name": "p232",
+  "main_type": "normal"
+},{
+  "_id": {
+    "$oid": "630a0055948a5c7c0a6d3651"
+  },
+  "name": "Simularbre",
+  "best_quick_move_dps": 16,
+  "best_main_move_dps": 35.6,
+  "attack": 167,
+  "defense": 176,
+  "max_hp": 147,
+  "total_dps": 51.6,
+  "attack_power": 12925.8,
+  "defense_power": 25872,
+  "fighting_duration": 6,
+  "total_power": 42.23,
+  "power_max_potential": 42.23,
+  "image_name": "p185",
+  "main_type": "roche"
+},{
+  "_id": {
+    "$oid": "630a0080948a5c7c0a6d3652"
+  },
+  "name": "Nénupiot",
+  "best_quick_move_dps": 15.6,
+  "best_main_move_dps": 27.7,
+  "attack": 71,
+  "defense": 77,
+  "max_hp": 106,
+  "total_dps": 43.3,
+  "attack_power": 4611.45,
+  "defense_power": 8162,
+  "fighting_duration": 5.31,
+  "total_power": 13.9,
+  "power_max_potential": 62.73,
+  "image_name": "p270",
+  "main_type": "eau"
+},{
+  "_id": {
+    "$oid": "630a00bd948a5c7c0a6d3653"
+  },
+  "name": "Magmar",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 40,
+  "attack": 206,
+  "defense": 154,
+  "max_hp": 140,
+  "total_dps": 52,
+  "attack_power": 16068,
+  "defense_power": 21560,
+  "fighting_duration": 4.03,
+  "total_power": 40.96,
+  "power_max_potential": 73.44,
+  "image_name": "p126f329",
+  "main_type": "feu"
+},{
+  "_id": {
+    "$oid": "630a00f5948a5c7c0a6d3654"
+  },
+  "name": "Magicarpe",
+  "best_quick_move_dps": 0,
+  "best_main_move_dps": 15.9,
+  "attack": 29,
+  "defense": 85,
+  "max_hp": 79,
+  "total_dps": 15.9,
+  "attack_power": 691.6500000000001,
+  "defense_power": 6715,
+  "fighting_duration": 29.13,
+  "total_power": 8.06,
+  "power_max_potential": 85.84,
+  "image_name": "p129f151",
+  "main_type": "eau"
+},{
+  "_id": {
+    "$oid": "630a011a948a5c7c0a6d3655"
+  },
+  "name": "Kapoera",
+  "best_quick_move_dps": 16,
+  "best_main_move_dps": 52.2,
+  "attack": 173,
+  "defense": 207,
+  "max_hp": 120,
+  "total_dps": 68.2,
+  "attack_power": 17697.9,
+  "defense_power": 24840,
+  "fighting_duration": 4.21,
+  "total_power": 46.3,
+  "power_max_potential": 46.3,
+  "image_name": "p237",
+  "main_type": "combat"
+},{
+  "_id": {
+    "$oid": "630a013f948a5c7c0a6d3656"
+  },
+  "name": "Gravalanch",
+  "best_quick_move_dps": 16,
+  "best_main_move_dps": 35.6,
+  "attack": 164,
+  "defense": 164,
+  "max_hp": 127,
+  "total_dps": 51.6,
+  "attack_power": 12693.6,
+  "defense_power": 20828,
+  "fighting_duration": 4.92,
+  "total_power": 36.49,
+  "power_max_potential": 56.31,
+  "image_name": "p75f36",
+  "main_type": "roche"
+},{
+  "_id": {
+    "$oid": "630a0169948a5c7c0a6d3657"
+  },
+  "name": "Étourmi",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 78,
+  "attack": 101,
+  "defense": 58,
+  "max_hp": 106,
+  "total_dps": 90,
+  "attack_power": 13635,
+  "defense_power": 6148,
+  "fighting_duration": 1.35,
+  "total_power": 21.53,
+  "power_max_potential": 59.99,
+  "image_name": "p396f520",
+  "main_type": "normal"
+},{
+  "_id": {
+    "$oid": "630a0190948a5c7c0a6d3658"
+  },
+  "name": "Étourvol",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 78,
+  "attack": 142,
+  "defense": 94,
+  "max_hp": 127,
+  "total_dps": 90,
+  "attack_power": 19170,
+  "defense_power": 11938,
+  "fighting_duration": 1.87,
+  "total_power": 33.86,
+  "power_max_potential": 59.99,
+  "image_name": "p397f521",
+  "main_type": "normal"
+},{
+  "_id": {
+    "$oid": "630a05ee948a5c7c0a6d365a"
+  },
+  "name": "Étouraptor",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 78,
+  "attack": 234,
+  "defense": 140,
+  "max_hp": 168,
+  "total_dps": 90,
+  "attack_power": 31590,
+  "defense_power": 23520,
+  "fighting_duration": 2.23,
+  "total_power": 59.99,
+  "power_max_potential": 59.99,
+  "image_name": "p398f522",
+  "main_type": "normal"
+},{
+  "_id": {
+    "$oid": "630a0d4b191f61ad90e342dc"
+  },
+  "name": "Débugant",
+  "main_type": "combat",
+  "best_quick_move_dps": 13.8,
+  "best_main_move_dps": 29.6,
+  "attack": 64,
+  "defense": 64,
+  "max_hp": 99,
+  "total_dps": 43.40000000000001,
+  "attack_power": 4166.400000000001,
+  "defense_power": 6336,
+  "fighting_duration": 4.56,
+  "total_power": 11.43,
+  "power_max_potential": 47.22,
+  "image_name": "p236"
+},{
+  "_id": {
+    "$oid": "630a0d74191f61ad90e342dd"
+  },
+  "name": "Tygnon",
+  "main_type": "combat",
+  "best_quick_move_dps": 16,
+  "best_main_move_dps": 52.2,
+  "attack": 193,
+  "defense": 197,
+  "max_hp": 120,
+  "total_dps": 68.2,
+  "attack_power": 19743.9,
+  "defense_power": 23640,
+  "fighting_duration": 3.59,
+  "total_power": 47.22,
+  "power_max_potential": 47.22,
+  "image_name": "p107f244"
+},{
+  "_id": {
+    "$oid": "630a2dd94ef7fdc39e6e7ab2"
+  },
+  "name": "Lixy",
+  "main_type": "electrik",
+  "best_quick_move_dps": 10.3,
+  "best_main_move_dps": 38.4,
+  "attack": 117,
+  "defense": 64,
+  "max_hp": 113,
+  "total_dps": 48.7,
+  "attack_power": 8546.85,
+  "defense_power": 7232,
+  "fighting_duration": 2.54,
+  "total_power": 17.18,
+  "power_max_potential": 47.36,
+  "image_name": "p403"
+},{
+  "_id": {
+    "$oid": "630a2e224ef7fdc39e6e7ab3"
+  },
+  "name": "Luxio",
+  "main_type": "electrik",
+  "best_quick_move_dps": 10.3,
+  "best_main_move_dps": 41.5,
+  "attack": 159,
+  "defense": 95,
+  "max_hp": 134,
+  "total_dps": 51.8,
+  "attack_power": 12354.3,
+  "defense_power": 12730,
+  "fighting_duration": 3.09,
+  "total_power": 27.3,
+  "power_max_potential": 47.36,
+  "image_name": "p404"
+},{
+  "_id": {
+    "$oid": "630a2ec24ef7fdc39e6e7ab4"
+  },
+  "name": "Luxray",
+  "main_type": "electrik",
+  "best_quick_move_dps": 10.9,
+  "best_main_move_dps": 41.5,
+  "attack": 232,
+  "defense": 156,
+  "max_hp": 162,
+  "total_dps": 52.4,
+  "attack_power": 18235.2,
+  "defense_power": 25272,
+  "fighting_duration": 4.16,
+  "total_power": 47.36,
+  "power_max_potential": 47.36,
+  "image_name": "p405"
+},{
+  "_id": {
+    "$oid": "630a2f1d4ef7fdc39e6e7ab7"
+  },
+  "name": "Limonde",
+  "main_type": "sol",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 31.2,
+  "attack": 144,
+  "defense": 171,
+  "max_hp": 201,
+  "total_dps": 41.2,
+  "attack_power": 8899.2,
+  "defense_power": 34371,
+  "fighting_duration": 11.59,
+  "total_power": 47.1,
+  "power_max_potential": 47.1,
+  "image_name": "p618f415"
+},{
+  "_id": {
+    "$oid": "630a2f4d4ef7fdc39e6e7ab8"
+  },
+  "name": "Dynavolt",
+  "main_type": "electrik",
+  "best_quick_move_dps": 10.3,
+  "best_main_move_dps": 38.4,
+  "attack": 123,
+  "defense": 78,
+  "max_hp": 106,
+  "total_dps": 48.7,
+  "attack_power": 8985.150000000001,
+  "defense_power": 8268,
+  "fighting_duration": 2.76,
+  "total_power": 18.78,
+  "power_max_potential": 39.1,
+  "image_name": "p309f518"
+},{
+  "_id": {
+    "$oid": "630a2f874ef7fdc39e6e7ab9"
+  },
+  "name": "Élecsprint",
+  "main_type": "electrik",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 41.5,
+  "attack": 215,
+  "defense": 127,
+  "max_hp": 147,
+  "total_dps": 53.5,
+  "attack_power": 17253.75,
+  "defense_power": 18669,
+  "fighting_duration": 3.25,
+  "total_power": 39.1,
+  "power_max_potential": 39.1,
+  "image_name": "p310f519"
+},{
+  "_id": {
+    "$oid": "630a30284ef7fdc39e6e7abb"
+  },
+  "name": "Chovsourir",
+  "main_type": "psy",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 28.9,
+  "attack": 107,
+  "defense": 85,
+  "max_hp": 140,
+  "total_dps": 43.9,
+  "attack_power": 7045.950000000001,
+  "defense_power": 11900,
+  "fighting_duration": 5.07,
+  "total_power": 20.62,
+  "power_max_potential": 32.61,
+  "image_name": "p527"
+},{
+  "_id": {
+    "$oid": "630a30444ef7fdc39e6e7abc"
+  },
+  "name": "Rhinolove",
+  "main_type": "psy",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 38.6,
+  "attack": 161,
+  "defense": 119,
+  "max_hp": 143,
+  "total_dps": 53.6,
+  "attack_power": 12944.4,
+  "defense_power": 17017,
+  "fighting_duration": 3.94,
+  "total_power": 32.61,
+  "power_max_potential": 32.61,
+  "image_name": "p528"
+},{
+  "_id": {
+    "$oid": "630a31e64ef7fdc39e6e7abe"
+  },
+  "name": "Chamallot",
+  "main_type": "feu",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 27.4,
+  "attack": 119,
+  "defense": 79,
+  "max_hp": 134,
+  "total_dps": 39.4,
+  "attack_power": 7032.9,
+  "defense_power": 10586,
+  "fighting_duration": 4.52,
+  "total_power": 19.18,
+  "power_max_potential": 40.77,
+  "image_name": "p322"
+},{
+  "_id": {
+    "$oid": "630a32004ef7fdc39e6e7abf"
+  },
+  "name": "Camérupt",
+  "main_type": "feu",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 48,
+  "attack": 194,
+  "defense": 136,
+  "max_hp": 147,
+  "total_dps": 60,
+  "attack_power": 17460,
+  "defense_power": 19992,
+  "fighting_duration": 3.44,
+  "total_power": 40.77,
+  "power_max_potential": 40.77,
+  "image_name": "p323"
+},{
+  "_id": {
+    "$oid": "630a323f4ef7fdc39e6e7ac1"
+  },
+  "name": "Carabing",
+  "main_type": "insecte",
+  "best_quick_move_dps": 9,
+  "best_main_move_dps": 33.8,
+  "attack": 137,
+  "defense": 87,
+  "max_hp": 120,
+  "total_dps": 42.8,
+  "attack_power": 8795.4,
+  "defense_power": 10440,
+  "fighting_duration": 3.56,
+  "total_power": 20.94,
+  "power_max_potential": 56.14,
+  "image_name": "p588"
+},{
+  "_id": {
+    "$oid": "630a32584ef7fdc39e6e7ac2"
+  },
+  "name": "Lançargot",
+  "main_type": "insecte",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 60,
+  "attack": 223,
+  "defense": 187,
+  "max_hp": 147,
+  "total_dps": 72,
+  "attack_power": 24084,
+  "defense_power": 27489,
+  "fighting_duration": 3.42,
+  "total_power": 56.14,
+  "power_max_potential": 56.14,
+  "image_name": "p589"
+},{
+  "_id": {
+    "$oid": "630a32964ef7fdc39e6e7ac4"
+  },
+  "name": "Anorith",
+  "main_type": "roche",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 50,
+  "attack": 176,
+  "defense": 100,
+  "max_hp": 113,
+  "total_dps": 62,
+  "attack_power": 16368,
+  "defense_power": 11300,
+  "fighting_duration": 2.07,
+  "total_power": 30.12,
+  "power_max_potential": 50.55,
+  "image_name": "p347f495"
+},{
+  "_id": {
+    "$oid": "630a32af4ef7fdc39e6e7ac5"
+  },
+  "name": "Armaldo",
+  "main_type": "roche",
+  "best_quick_move_dps": 9,
+  "best_main_move_dps": 50,
+  "attack": 222,
+  "defense": 174,
+  "max_hp": 154,
+  "total_dps": 59,
+  "attack_power": 19647,
+  "defense_power": 26796,
+  "fighting_duration": 4.09,
+  "total_power": 50.55,
+  "power_max_potential": 50.55,
+  "image_name": "p348f496"
+},{
+  "_id": {
+    "$oid": "630a32ea4ef7fdc39e6e7ac7"
+  },
+  "name": "Abra",
+  "main_type": "psy",
+  "best_quick_move_dps": 13.1,
+  "best_main_move_dps": 33.3,
+  "attack": 195,
+  "defense": 82,
+  "max_hp": 85,
+  "total_dps": 46.4,
+  "attack_power": 13572,
+  "defense_power": 6970,
+  "fighting_duration": 1.54,
+  "total_power": 22.36,
+  "power_max_potential": 46.8,
+  "image_name": "p63f235"
+},{
+  "_id": {
+    "$oid": "630a33034ef7fdc39e6e7ac8"
+  },
+  "name": "Kadabra",
+  "main_type": "psy",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 33.3,
+  "attack": 232,
+  "defense": 117,
+  "max_hp": 106,
+  "total_dps": 48.3,
+  "attack_power": 16808.4,
+  "defense_power": 12402,
+  "fighting_duration": 2.21,
+  "total_power": 31.8,
+  "power_max_potential": 46.8,
+  "image_name": "p64f238"
+},{
+  "_id": {
+    "$oid": "630a33264ef7fdc39e6e7ac9"
+  },
+  "name": "Alakazam",
+  "main_type": "psy",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 38.6,
+  "attack": 271,
+  "defense": 167,
+  "max_hp": 127,
+  "total_dps": 53.6,
+  "attack_power": 21788.4,
+  "defense_power": 21209,
+  "fighting_duration": 2.92,
+  "total_power": 46.8,
+  "power_max_potential": 46.8,
+  "image_name": "p65f241"
+},{
+  "_id": {
+    "$oid": "630a33704ef7fdc39e6e7acc"
+  },
+  "name": "Griknot",
+  "main_type": "dragon",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 25.5,
+  "attack": 124,
+  "defense": 84,
+  "max_hp": 131,
+  "total_dps": 35.5,
+  "attack_power": 6603,
+  "defense_power": 11004,
+  "fighting_duration": 5,
+  "total_power": 19.17,
+  "power_max_potential": 63.41,
+  "image_name": "p443f369"
+},{
+  "_id": {
+    "$oid": "630a33914ef7fdc39e6e7acd"
+  },
+  "name": "Carmache",
+  "main_type": "dragon",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 25.5,
+  "attack": 172,
+  "defense": 125,
+  "max_hp": 145,
+  "total_dps": 35.5,
+  "attack_power": 9159,
+  "defense_power": 18125,
+  "fighting_duration": 5.94,
+  "total_power": 29.7,
+  "power_max_potential": 63.41,
+  "image_name": "p444f370"
+},{
+  "_id": {
+    "$oid": "630a33b44ef7fdc39e6e7ace"
+  },
+  "name": "Carchacrok",
+  "main_type": "dragon",
+  "best_quick_move_dps": 16.4,
+  "best_main_move_dps": 33.8,
+  "attack": 261,
+  "defense": 193,
+  "max_hp": 200,
+  "total_dps": 50.2,
+  "attack_power": 19653.3,
+  "defense_power": 38600,
+  "fighting_duration": 5.89,
+  "total_power": 63.41,
+  "power_max_potential": 63.41,
+  "image_name": "p445f371"
+},{
+  "_id": {
+    "$oid": "630a34014ef7fdc39e6e7ad1"
+  },
+  "name": "Poussifeu",
+  "main_type": "feu",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 38.2,
+  "attack": 130,
+  "defense": 87,
+  "max_hp": 113,
+  "total_dps": 50.2,
+  "attack_power": 9789,
+  "defense_power": 9831,
+  "fighting_duration": 3.01,
+  "total_power": 21.36,
+  "power_max_potential": 46.81,
+  "image_name": "p255f511"
+},{
+  "_id": {
+    "$oid": "630a341b4ef7fdc39e6e7ad2"
+  },
+  "name": "Galifeu",
+  "main_type": "feu",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 38.2,
+  "attack": 163,
+  "defense": 115,
+  "max_hp": 134,
+  "total_dps": 50.2,
+  "attack_power": 12273.9,
+  "defense_power": 15410,
+  "fighting_duration": 3.77,
+  "total_power": 30.13,
+  "power_max_potential": 46.81,
+  "image_name": "p256f512"
+},{
+  "_id": {
+    "$oid": "630a343a4ef7fdc39e6e7ad3"
+  },
+  "name": "Braségali",
+  "main_type": "feu",
+  "best_quick_move_dps": 16,
+  "best_main_move_dps": 40,
+  "attack": 240,
+  "defense": 141,
+  "max_hp": 162,
+  "total_dps": 56,
+  "attack_power": 20160,
+  "defense_power": 22842,
+  "fighting_duration": 3.4,
+  "total_power": 46.81,
+  "power_max_potential": 46.81,
+  "image_name": "p257f513"
+},{
+  "_id": {
+    "$oid": "630a348f4ef7fdc39e6e7ad6"
+  },
+  "name": "Machoc",
+  "main_type": "combat",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 50,
+  "attack": 137,
+  "defense": 82,
+  "max_hp": 147,
+  "total_dps": 62,
+  "attack_power": 12741,
+  "defense_power": 12054,
+  "fighting_duration": 2.84,
+  "total_power": 26.99,
+  "power_max_potential": 51.68,
+  "image_name": "p66f426"
+},{
+  "_id": {
+    "$oid": "630a34a84ef7fdc39e6e7ad7"
+  },
+  "name": "Machopeur",
+  "main_type": "combat",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 40,
+  "attack": 177,
+  "defense": 125,
+  "max_hp": 162,
+  "total_dps": 52,
+  "attack_power": 13806,
+  "defense_power": 20250,
+  "fighting_duration": 4.4,
+  "total_power": 37.07,
+  "power_max_potential": 51.68,
+  "image_name": "p67f427"
+},{
+  "_id": {
+    "$oid": "630a34c44ef7fdc39e6e7ad8"
+  },
+  "name": "Mackogneur",
+  "main_type": "combat",
+  "best_quick_move_dps": 16,
+  "best_main_move_dps": 40,
+  "attack": 234,
+  "defense": 159,
+  "max_hp": 175,
+  "total_dps": 56,
+  "attack_power": 19656,
+  "defense_power": 27825,
+  "fighting_duration": 4.25,
+  "total_power": 51.68,
+  "power_max_potential": 51.68,
+  "image_name": "p68f428"
+},{
+  "_id": {
+    "$oid": "630a35004ef7fdc39e6e7adb"
+  },
+  "name": "Arcko",
+  "main_type": "plante",
+  "best_quick_move_dps": 11.7,
+  "best_main_move_dps": 41.5,
+  "attack": 124,
+  "defense": 94,
+  "max_hp": 106,
+  "total_dps": 53.2,
+  "attack_power": 9895.2,
+  "defense_power": 9964,
+  "fighting_duration": 3.02,
+  "total_power": 21.62,
+  "power_max_potential": 46.59,
+  "image_name": "p252"
+},{
+  "_id": {
+    "$oid": "630a35164ef7fdc39e6e7adc"
+  },
+  "name": "Massko",
+  "main_type": "plante",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 41.5,
+  "attack": 172,
+  "defense": 120,
+  "max_hp": 120,
+  "total_dps": 51.5,
+  "attack_power": 13287,
+  "defense_power": 14400,
+  "fighting_duration": 3.25,
+  "total_power": 30.14,
+  "power_max_potential": 46.59,
+  "image_name": "p253"
+},{
+  "_id": {
+    "$oid": "630a352f4ef7fdc39e6e7add"
+  },
+  "name": "Jungko",
+  "main_type": "plante",
+  "best_quick_move_dps": 7.5,
+  "best_main_move_dps": 46.2,
+  "attack": 223,
+  "defense": 169,
+  "max_hp": 147,
+  "total_dps": 53.7,
+  "attack_power": 17962.65,
+  "defense_power": 24843,
+  "fighting_duration": 4.15,
+  "total_power": 46.59,
+  "power_max_potential": 46.59,
+  "image_name": "p254"
+},{
+  "_id": {
+    "$oid": "630a35714ef7fdc39e6e7ae0"
+  },
+  "name": "Salamèche",
+  "main_type": "feu",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 38.2,
+  "attack": 116,
+  "defense": 93,
+  "max_hp": 105,
+  "total_dps": 50.2,
+  "attack_power": 8734.800000000001,
+  "defense_power": 9765,
+  "fighting_duration": 3.35,
+  "total_power": 20.14,
+  "power_max_potential": 49.89,
+  "image_name": "p4f96"
+},{
+  "_id": {
+    "$oid": "630a358f4ef7fdc39e6e7ae1"
+  },
+  "name": "Reptincel",
+  "main_type": "feu",
+  "best_quick_move_dps": 16,
+  "best_main_move_dps": 38.2,
+  "attack": 158,
+  "defense": 126,
+  "max_hp": 131,
+  "total_dps": 54.2,
+  "attack_power": 12845.4,
+  "defense_power": 16506,
+  "fighting_duration": 3.85,
+  "total_power": 31.95,
+  "power_max_potential": 49.89,
+  "image_name": "p5f205"
+},{
+  "_id": {
+    "$oid": "630a35a64ef7fdc39e6e7ae2"
+  },
+  "name": "Dracaufeu",
+  "main_type": "feu",
+  "best_quick_move_dps": 15.3,
+  "best_main_move_dps": 40,
+  "attack": 223,
+  "defense": 173,
+  "max_hp": 158,
+  "total_dps": 55.3,
+  "attack_power": 18497.85,
+  "defense_power": 27334,
+  "fighting_duration": 4.43,
+  "total_power": 49.89,
+  "power_max_potential": 49.89,
+  "image_name": "p6f102"
+},{
+  "_id": {
+    "$oid": "630a36634ef7fdc39e6e7ae5"
+  },
+  "name": "Caninos",
+  "main_type": "feu",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 38.2,
+  "attack": 136,
+  "defense": 93,
+  "max_hp": 127,
+  "total_dps": 50.2,
+  "attack_power": 10240.8,
+  "defense_power": 11811,
+  "fighting_duration": 3.46,
+  "total_power": 24,
+  "power_max_potential": 52.38,
+  "image_name": "p58f229"
+},{
+  "_id": {
+    "$oid": "630a36794ef7fdc39e6e7ae6"
+  },
+  "name": "Arcanin",
+  "main_type": "feu",
+  "best_quick_move_dps": 16,
+  "best_main_move_dps": 40,
+  "attack": 227,
+  "defense": 166,
+  "max_hp": 175,
+  "total_dps": 56,
+  "attack_power": 19068,
+  "defense_power": 29050,
+  "fighting_duration": 4.57,
+  "total_power": 52.38,
+  "power_max_potential": 52.38,
+  "image_name": "p59f232"
+},{
+  "_id": {
+    "$oid": "630a36e04ef7fdc39e6e7ae8"
+  },
+  "name": "Gobou",
+  "main_type": "eau",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 50,
+  "attack": 126,
+  "defense": 93,
+  "max_hp": 120,
+  "total_dps": 62,
+  "attack_power": 11718,
+  "defense_power": 11160,
+  "fighting_duration": 2.86,
+  "total_power": 24.9,
+  "power_max_potential": 58.69,
+  "image_name": "p258f184"
+},{
+  "_id": {
+    "$oid": "630a36f54ef7fdc39e6e7ae9"
+  },
+  "name": "Flobio",
+  "main_type": "eau",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 45.9,
+  "attack": 156,
+  "defense": 133,
+  "max_hp": 147,
+  "total_dps": 57.9,
+  "attack_power": 13548.6,
+  "defense_power": 19551,
+  "fighting_duration": 4.33,
+  "total_power": 36.03,
+  "power_max_potential": 58.69,
+  "image_name": "p259f187"
+},{
+  "_id": {
+    "$oid": "630a370e4ef7fdc39e6e7aea"
+  },
+  "name": "Laggron",
+  "main_type": "eau",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 56.8,
+  "attack": 208,
+  "defense": 175,
+  "max_hp": 189,
+  "total_dps": 66.8,
+  "attack_power": 20841.6,
+  "defense_power": 33075,
+  "fighting_duration": 4.76,
+  "total_power": 58.69,
+  "power_max_potential": 58.69,
+  "image_name": "p260f190"
+},{
+  "_id": {
+    "$oid": "630a37494ef7fdc39e6e7aed"
+  },
+  "name": "Cacnea",
+  "main_type": "plante",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 41.5,
+  "attack": 156,
+  "defense": 74,
+  "max_hp": 120,
+  "total_dps": 51.5,
+  "attack_power": 12051,
+  "defense_power": 8880,
+  "fighting_duration": 2.21,
+  "total_power": 22.78,
+  "power_max_potential": 37.71,
+  "image_name": "p331f355"
+},{
+  "_id": {
+    "$oid": "630a37604ef7fdc39e6e7aee"
+  },
+  "name": "Cacturne",
+  "main_type": "plante",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 41.5,
+  "attack": 221,
+  "defense": 115,
+  "max_hp": 147,
+  "total_dps": 53.5,
+  "attack_power": 17735.25,
+  "defense_power": 16905,
+  "fighting_duration": 2.86,
+  "total_power": 37.71,
+  "power_max_potential": 37.71,
+  "image_name": "p332f356"
+},{
+  "_id": {
+    "$oid": "630a37914ef7fdc39e6e7af0"
+  },
+  "name": "Racaillou",
+  "main_type": "roche",
+  "best_quick_move_dps": 16,
+  "best_main_move_dps": 35.6,
+  "attack": 132,
+  "defense": 132,
+  "max_hp": 106,
+  "total_dps": 51.6,
+  "attack_power": 10216.8,
+  "defense_power": 13992,
+  "fighting_duration": 4.11,
+  "total_power": 26.35,
+  "power_max_potential": 56.31,
+  "image_name": "p74f34"
+},{
+  "_id": {
+    "$oid": "630a37b74ef7fdc39e6e7af1"
+  },
+  "name": "Grolem",
+  "main_type": "roche",
+  "best_quick_move_dps": 15.4,
+  "best_main_move_dps": 46.7,
+  "attack": 211,
+  "defense": 198,
+  "max_hp": 162,
+  "total_dps": 62.1,
+  "attack_power": 19654.65,
+  "defense_power": 32076,
+  "fighting_duration": 4.9,
+  "total_power": 56.31,
+  "power_max_potential": 56.31,
+  "image_name": "p76f38"
+},{
+  "_id": {
+    "$oid": "630a37f04ef7fdc39e6e7af4"
+  },
+  "name": "Bulbizarre",
+  "main_type": "plante",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 41.5,
+  "attack": 118,
+  "defense": 111,
+  "max_hp": 113,
+  "total_dps": 55.5,
+  "attack_power": 9823.5,
+  "defense_power": 12543,
+  "fighting_duration": 3.83,
+  "total_power": 24.35,
+  "power_max_potential": 52.79,
+  "image_name": "p1f87"
+},{
+  "_id": {
+    "$oid": "630a38074ef7fdc39e6e7af5"
+  },
+  "name": "Herbizarre",
+  "main_type": "plante",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 41.5,
+  "attack": 151,
+  "defense": 143,
+  "max_hp": 134,
+  "total_dps": 55.5,
+  "attack_power": 12570.75,
+  "defense_power": 19162,
+  "fighting_duration": 4.57,
+  "total_power": 34.54,
+  "power_max_potential": 52.79,
+  "image_name": "p2f90"
+},{
+  "_id": {
+    "$oid": "630a381e4ef7fdc39e6e7af6"
+  },
+  "name": "Florizarre",
+  "main_type": "plante",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 46.2,
+  "attack": 198,
+  "defense": 189,
+  "max_hp": 162,
+  "total_dps": 60.2,
+  "attack_power": 17879.4,
+  "defense_power": 30618,
+  "fighting_duration": 5.14,
+  "total_power": 52.79,
+  "power_max_potential": 52.79,
+  "image_name": "p3f93"
+},{
+  "_id": {
+    "$oid": "630a38594ef7fdc39e6e7af9"
+  },
+  "name": "Poichigeon",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 27.5,
+  "attack": 98,
+  "defense": 80,
+  "max_hp": 120,
+  "total_dps": 39.5,
+  "attack_power": 5806.5,
+  "defense_power": 9600,
+  "fighting_duration": 4.96,
+  "total_power": 16.77,
+  "power_max_potential": 48.62,
+  "image_name": "p519"
+},{
+  "_id": {
+    "$oid": "630a386c4ef7fdc39e6e7afa"
+  },
+  "name": "Colombeau",
+  "main_type": "normal",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 48,
+  "attack": 144,
+  "defense": 107,
+  "max_hp": 136,
+  "total_dps": 62,
+  "attack_power": 13392,
+  "defense_power": 14552,
+  "fighting_duration": 3.26,
+  "total_power": 30.42,
+  "power_max_potential": 48.62,
+  "image_name": "p520"
+},{
+  "_id": {
+    "$oid": "630a38814ef7fdc39e6e7afb"
+  },
+  "name": "Déflaisan",
+  "main_type": "normal",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 48,
+  "attack": 226,
+  "defense": 146,
+  "max_hp": 162,
+  "total_dps": 62,
+  "attack_power": 21018,
+  "defense_power": 23652,
+  "fighting_duration": 3.38,
+  "total_power": 48.62,
+  "power_max_potential": 48.62,
+  "image_name": "p521"
+},{
+  "_id": {
+    "$oid": "630a38c74ef7fdc39e6e7afe"
+  },
+  "name": "Rhinocorne",
+  "main_type": "sol",
+  "best_quick_move_dps": 15.4,
+  "best_main_move_dps": 50,
+  "attack": 140,
+  "defense": 127,
+  "max_hp": 162,
+  "total_dps": 65.4,
+  "attack_power": 13734,
+  "defense_power": 20574,
+  "fighting_duration": 4.49,
+  "total_power": 37.34,
+  "power_max_potential": 63.93,
+  "image_name": "p111f325"
+},{
+  "_id": {
+    "$oid": "630a38e04ef7fdc39e6e7aff"
+  },
+  "name": "Rhinoféros",
+  "main_type": "sol",
+  "best_quick_move_dps": 15.4,
+  "best_main_move_dps": 46.7,
+  "attack": 222,
+  "defense": 171,
+  "max_hp": 195,
+  "total_dps": 62.1,
+  "attack_power": 20679.3,
+  "defense_power": 33345,
+  "fighting_duration": 4.84,
+  "total_power": 58.81,
+  "power_max_potential": 63.93,
+  "image_name": "p112f326"
+},{
+  "_id": {
+    "$oid": "630a38f74ef7fdc39e6e7b00"
+  },
+  "name": "Rhinastoc",
+  "main_type": "sol",
+  "best_quick_move_dps": 15.4,
+  "best_main_move_dps": 36.7,
+  "attack": 241,
+  "defense": 190,
+  "max_hp": 210,
+  "total_dps": 52.1,
+  "attack_power": 18834.15,
+  "defense_power": 39900,
+  "fighting_duration": 6.36,
+  "total_power": 63.93,
+  "power_max_potential": 63.93,
+  "image_name": "p464f378"
+},{
+  "_id": {
+    "$oid": "630a452c4ef7fdc39e6e7b03"
+  },
+  "name": "Séléroc",
+  "main_type": "roche",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 38.6,
+  "attack": 178,
+  "defense": 153,
+  "max_hp": 175,
+  "total_dps": 53.6,
+  "attack_power": 14311.2,
+  "defense_power": 26775,
+  "fighting_duration": 5.61,
+  "total_power": 44.72,
+  "power_max_potential": 44.72,
+  "image_name": "p337"
+},{
+  "_id": {
+    "$oid": "630a45be4ef7fdc39e6e7b04"
+  },
+  "name": "Munna",
+  "main_type": "psy",
+  "best_quick_move_dps": 13.1,
+  "best_main_move_dps": 28.9,
+  "attack": 111,
+  "defense": 92,
+  "max_hp": 156,
+  "total_dps": 42,
+  "attack_power": 6993,
+  "defense_power": 14352,
+  "fighting_duration": 6.16,
+  "total_power": 23.23,
+  "power_max_potential": 57.97,
+  "image_name": "p517"
+},{
+  "_id": {
+    "$oid": "630a45e54ef7fdc39e6e7b05"
+  },
+  "name": "Mushana",
+  "main_type": "psy",
+  "best_quick_move_dps": 13.1,
+  "best_main_move_dps": 53.3,
+  "attack": 183,
+  "defense": 166,
+  "max_hp": 211,
+  "total_dps": 66.39999999999999,
+  "attack_power": 18226.8,
+  "defense_power": 35026,
+  "fighting_duration": 5.77,
+  "total_power": 57.97,
+  "power_max_potential": 57.97,
+  "image_name": "p518"
+},{
+  "_id": {
+    "$oid": "630a47264ef7fdc39e6e7b0a"
+  },
+  "name": "Mélo",
+  "main_type": "fee",
+  "best_quick_move_dps": 11.7,
+  "best_main_move_dps": 34.6,
+  "attack": 75,
+  "defense": 79,
+  "max_hp": 120,
+  "total_dps": 46.3,
+  "attack_power": 5208.75,
+  "defense_power": 9480,
+  "fighting_duration": 5.46,
+  "total_power": 15.99,
+  "power_max_potential": 47.93,
+  "image_name": "p173"
+},{
+  "_id": {
+    "$oid": "630a475b4ef7fdc39e6e7b0b"
+  },
+  "name": "Mélofée",
+  "main_type": "fee",
+  "best_quick_move_dps": 11.7,
+  "best_main_move_dps": 40,
+  "attack": 107,
+  "defense": 108,
+  "max_hp": 147,
+  "total_dps": 51.7,
+  "attack_power": 8297.85,
+  "defense_power": 15876,
+  "fighting_duration": 5.74,
+  "total_power": 26.31,
+  "power_max_potential": 47.93,
+  "image_name": "p35"
+},{
+  "_id": {
+    "$oid": "630a476e4ef7fdc39e6e7b0c"
+  },
+  "name": "Mélodelfe",
+  "main_type": "fee",
+  "best_quick_move_dps": 16,
+  "best_main_move_dps": 38.5,
+  "attack": 178,
+  "defense": 162,
+  "max_hp": 182,
+  "total_dps": 54.5,
+  "attack_power": 14551.5,
+  "defense_power": 29484,
+  "fighting_duration": 6.08,
+  "total_power": 47.93,
+  "power_max_potential": 47.93,
+  "image_name": "p36"
+},{
+  "_id": {
+    "$oid": "630a47bb4ef7fdc39e6e7b0f"
+  },
+  "name": "Ptiravi",
+  "main_type": "normal",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 32.1,
+  "attack": 25,
+  "defense": 77,
+  "max_hp": 189,
+  "total_dps": 46.1,
+  "attack_power": 1728.75,
+  "defense_power": 14553,
+  "fighting_duration": 25.25,
+  "total_power": 17.72,
+  "power_max_potential": 100,
+  "image_name": "p440"
+},{
+  "_id": {
+    "$oid": "630a47d34ef7fdc39e6e7b10"
+  },
+  "name": "Leveinard",
+  "main_type": "normal",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 47.4,
+  "attack": 60,
+  "defense": 128,
+  "max_hp": 396,
+  "total_dps": 61.4,
+  "attack_power": 5526,
+  "defense_power": 50688,
+  "fighting_duration": 27.52,
+  "total_power": 61.19,
+  "power_max_potential": 100,
+  "image_name": "p113"
+},{
+  "_id": {
+    "$oid": "630a4f6a779dce336f2e8bc6"
+  },
+  "name": "Amonita",
+  "main_type": "roche",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 50,
+  "attack": 155,
+  "defense": 153,
+  "max_hp": 99,
+  "total_dps": 62,
+  "attack_power": 14415,
+  "defense_power": 15147,
+  "fighting_duration": 3.15,
+  "total_power": 32.18,
+  "power_max_potential": 53.56,
+  "image_name": "p138f390"
+},{
+  "_id": {
+    "$oid": "630a4f85779dce336f2e8bc7"
+  },
+  "name": "Amonistar",
+  "main_type": "roche",
+  "best_quick_move_dps": 16,
+  "best_main_move_dps": 47.3,
+  "attack": 207,
+  "defense": 201,
+  "max_hp": 147,
+  "total_dps": 63.3,
+  "attack_power": 19654.65,
+  "defense_power": 29547,
+  "fighting_duration": 4.51,
+  "total_power": 53.56,
+  "power_max_potential": 53.56,
+  "image_name": "p139f391"
+},{
+  "_id": {
+    "$oid": "630a5a7e779dce336f2e8bc9"
+  },
+  "name": "Leuphorie",
+  "main_type": "normal",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 47.4,
+  "attack": 129,
+  "defense": 169,
+  "max_hp": 403,
+  "total_dps": 61.4,
+  "attack_power": 23761.8,
+  "defense_power": 68107,
+  "fighting_duration": 17.2,
+  "total_power": 100,
+  "power_max_potential": 100,
+  "image_name": "p242"
+},{
+  "_id": {
+    "$oid": "630a5d0f779dce336f2e8bcb"
+  },
+  "name": "Solaroc",
+  "main_type": "roche",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 38.6,
+  "attack": 178,
+  "defense": 153,
+  "max_hp": 175,
+  "total_dps": 53.6,
+  "attack_power": 28622.4,
+  "defense_power": 26775,
+  "fighting_duration": 5.61,
+  "total_power": 60.3,
+  "power_max_potential": 60.3,
+  "image_name": "p338"
+},{
+  "_id": {
+    "$oid": "630a5d79779dce336f2e8bcc"
+  },
+  "name": "Keunotor",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 38.4,
+  "attack": 80,
+  "defense": 73,
+  "max_hp": 132,
+  "total_dps": 50.4,
+  "attack_power": 12096,
+  "defense_power": 9636,
+  "fighting_duration": 4.78,
+  "total_power": 23.66,
+  "power_max_potential": 52.15,
+  "image_name": "p399f523"
+},{
+  "_id": {
+    "$oid": "630a5d9d779dce336f2e8bcd"
+  },
+  "name": "Castorno",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 47.4,
+  "attack": 162,
+  "defense": 119,
+  "max_hp": 160,
+  "total_dps": 59.4,
+  "attack_power": 28868.4,
+  "defense_power": 19040,
+  "fighting_duration": 3.96,
+  "total_power": 52.15,
+  "power_max_potential": 52.15,
+  "image_name": "p400f524"
+},{
+  "_id": {
+    "$oid": "630a5ee9779dce336f2e8bcf"
+  },
+  "name": "Feuforêve",
+  "main_type": "spectre",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 50,
+  "attack": 167,
+  "defense": 154,
+  "max_hp": 134,
+  "total_dps": 60,
+  "attack_power": 30060,
+  "defense_power": 20636,
+  "fighting_duration": 4.12,
+  "total_power": 55.18,
+  "power_max_potential": 61.73,
+  "image_name": "p200f392"
+},{
+  "_id": {
+    "$oid": "630a5f0f779dce336f2e8bd0"
+  },
+  "name": "Magirêve",
+  "main_type": "spectre",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 40,
+  "attack": 211,
+  "defense": 187,
+  "max_hp": 134,
+  "total_dps": 50,
+  "attack_power": 31650,
+  "defense_power": 25058,
+  "fighting_duration": 4.75,
+  "total_power": 61.73,
+  "power_max_potential": 61.73,
+  "image_name": "p429f402"
+},{
+  "_id": {
+    "$oid": "630a5f7b779dce336f2e8bd2"
+  },
+  "name": "Phanpy",
+  "main_type": "sol",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 27.4,
+  "attack": 107,
+  "defense": 98,
+  "max_hp": 175,
+  "total_dps": 37.4,
+  "attack_power": 12005.4,
+  "defense_power": 17150,
+  "fighting_duration": 8.57,
+  "total_power": 31.74,
+  "power_max_potential": 56.94,
+  "image_name": "p231"
+},{
+  "_id": {
+    "$oid": "630a5fa7779dce336f2e8bd4"
+  },
+  "name": "Snubbull",
+  "main_type": "fee",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 34.3,
+  "attack": 137,
+  "defense": 85,
+  "max_hp": 134,
+  "total_dps": 44.3,
+  "attack_power": 18207.3,
+  "defense_power": 11390,
+  "fighting_duration": 3.75,
+  "total_power": 32.22,
+  "power_max_potential": 61.78,
+  "image_name": "p209f508"
+},{
+  "_id": {
+    "$oid": "630a5fbe779dce336f2e8bd5"
+  },
+  "name": "Granbull",
+  "main_type": "fee",
+  "best_quick_move_dps": 16,
+  "best_main_move_dps": 37.2,
+  "attack": 212,
+  "defense": 131,
+  "max_hp": 175,
+  "total_dps": 53.2,
+  "attack_power": 33835.2,
+  "defense_power": 22925,
+  "fighting_duration": 4.07,
+  "total_power": 61.78,
+  "power_max_potential": 61.78,
+  "image_name": "p210f509"
+},{
+  "_id": {
+    "$oid": "630a6035779dce336f2e8bd7"
+  },
+  "name": "Chétiflor",
+  "main_type": "plante",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 41.5,
+  "attack": 139,
+  "defense": 61,
+  "max_hp": 120,
+  "total_dps": 55.5,
+  "attack_power": 23143.5,
+  "defense_power": 7320,
+  "fighting_duration": 1.9,
+  "total_power": 33.16,
+  "power_max_potential": 64.16,
+  "image_name": "p69f311"
+},{
+  "_id": {
+    "$oid": "630a604c779dce336f2e8bd8"
+  },
+  "name": "Boustiflor",
+  "main_type": "plante",
+  "best_quick_move_dps": 13.5,
+  "best_main_move_dps": 41.5,
+  "attack": 172,
+  "defense": 92,
+  "max_hp": 140,
+  "total_dps": 55,
+  "attack_power": 28380,
+  "defense_power": 12880,
+  "fighting_duration": 2.72,
+  "total_power": 44.91,
+  "power_max_potential": 64.16,
+  "image_name": "p70f312"
+},{
+  "_id": {
+    "$oid": "630a6065779dce336f2e8bd9"
+  },
+  "name": "Empiflor",
+  "main_type": "plante",
+  "best_quick_move_dps": 15.6,
+  "best_main_move_dps": 44.1,
+  "attack": 207,
+  "defense": 135,
+  "max_hp": 162,
+  "total_dps": 59.7,
+  "attack_power": 37073.7,
+  "defense_power": 21870,
+  "fighting_duration": 3.54,
+  "total_power": 64.16,
+  "power_max_potential": 64.16,
+  "image_name": "p71f313"
+},{
+  "_id": {
+    "$oid": "630a60a6779dce336f2e8bdc"
+  },
+  "name": "Marisson",
+  "main_type": "plante",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 31.4,
+  "attack": 110,
+  "defense": 106,
+  "max_hp": 128,
+  "total_dps": 45.4,
+  "attack_power": 14982,
+  "defense_power": 13568,
+  "fighting_duration": 5.43,
+  "total_power": 31.08,
+  "power_max_potential": 76.55,
+  "image_name": "p650"
+},{
+  "_id": {
+    "$oid": "630a60be779dce336f2e8bdd"
+  },
+  "name": "Boguérisse",
+  "main_type": "plante",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 27.7,
+  "attack": 146,
+  "defense": 156,
+  "max_hp": 135,
+  "total_dps": 41.7,
+  "attack_power": 18264.6,
+  "defense_power": 21060,
+  "fighting_duration": 6.92,
+  "total_power": 42.81,
+  "power_max_potential": 76.55,
+  "image_name": "p651"
+},{
+  "_id": {
+    "$oid": "630a60d4779dce336f2e8bde"
+  },
+  "name": "Blindépique",
+  "main_type": "plante",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 44.1,
+  "attack": 201,
+  "defense": 204,
+  "max_hp": 173,
+  "total_dps": 58.1,
+  "attack_power": 35034.3,
+  "defense_power": 35292,
+  "fighting_duration": 6.04,
+  "total_power": 76.55,
+  "power_max_potential": 76.55,
+  "image_name": "p652"
+},{
+  "_id": {
+    "$oid": "630a610c779dce336f2e8be1"
+  },
+  "name": "Ponyta",
+  "main_type": "feu",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 40,
+  "attack": 170,
+  "defense": 127,
+  "max_hp": 120,
+  "total_dps": 52,
+  "attack_power": 26520,
+  "defense_power": 15240,
+  "fighting_duration": 3.45,
+  "total_power": 45.46,
+  "power_max_potential": 62.07,
+  "image_name": "p77f444"
+},{
+  "_id": {
+    "$oid": "630a6122779dce336f2e8be2"
+  },
+  "name": "Galopa",
+  "main_type": "feu",
+  "best_quick_move_dps": 15.3,
+  "best_main_move_dps": 40,
+  "attack": 207,
+  "defense": 162,
+  "max_hp": 140,
+  "total_dps": 55.3,
+  "attack_power": 34341.3,
+  "defense_power": 22680,
+  "fighting_duration": 3.96,
+  "total_power": 62.07,
+  "power_max_potential": 62.07,
+  "image_name": "p78f446"
+},{
+  "_id": {
+    "$oid": "630a614f779dce336f2e8be4"
+  },
+  "name": "Venipatte",
+  "main_type": "insecte",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 41.7,
+  "attack": 83,
+  "defense": 99,
+  "max_hp": 92,
+  "total_dps": 53.7,
+  "attack_power": 13371.3,
+  "defense_power": 9108,
+  "fighting_duration": 4.09,
+  "total_power": 24.47,
+  "power_max_potential": 63.11,
+  "image_name": "p543"
+},{
+  "_id": {
+    "$oid": "630a6165779dce336f2e8be5"
+  },
+  "name": "Scobolide",
+  "main_type": "insecte",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 41.2,
+  "attack": 100,
+  "defense": 173,
+  "max_hp": 106,
+  "total_dps": 53.2,
+  "attack_power": 15960,
+  "defense_power": 18338,
+  "fighting_duration": 6.89,
+  "total_power": 37.33,
+  "power_max_potential": 63.11,
+  "image_name": "p544"
+},{
+  "_id": {
+    "$oid": "630a617b779dce336f2e8be6"
+  },
+  "name": "Brutapode",
+  "main_type": "insecte",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 41.7,
+  "attack": 203,
+  "defense": 175,
+  "max_hp": 134,
+  "total_dps": 56.7,
+  "attack_power": 34530.3,
+  "defense_power": 23450,
+  "fighting_duration": 4.07,
+  "total_power": 63.11,
+  "power_max_potential": 63.11,
+  "image_name": "p545"
+},{
+  "_id": {
+    "$oid": "630a61b5779dce336f2e8be9"
+  },
+  "name": "Magby",
+  "main_type": "feu",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 38.2,
+  "attack": 151,
+  "defense": 99,
+  "max_hp": 113,
+  "total_dps": 50.2,
+  "attack_power": 22740.6,
+  "defense_power": 11187,
+  "fighting_duration": 2.95,
+  "total_power": 36.93,
+  "power_max_potential": 73.44,
+  "image_name": "p240"
+},{
+  "_id": {
+    "$oid": "630a61ce779dce336f2e8bea"
+  },
+  "name": "Maganon",
+  "main_type": "feu",
+  "best_quick_move_dps": 15.3,
+  "best_main_move_dps": 40,
+  "attack": 247,
+  "defense": 172,
+  "max_hp": 154,
+  "total_dps": 55.3,
+  "attack_power": 40977.3,
+  "defense_power": 26488,
+  "fighting_duration": 3.88,
+  "total_power": 73.44,
+  "power_max_potential": 73.44,
+  "image_name": "p467f380"
+},{
+  "_id": {
+    "$oid": "630a6220779dce336f2e8bed"
+  },
+  "name": "Nounourson",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 34,
+  "attack": 136,
+  "defense": 95,
+  "max_hp": 147,
+  "total_dps": 46,
+  "attack_power": 18768,
+  "defense_power": 13965,
+  "fighting_duration": 4.46,
+  "total_power": 35.63,
+  "power_max_potential": 67.25,
+  "image_name": "p759"
+},{
+  "_id": {
+    "$oid": "630a6236779dce336f2e8bee"
+  },
+  "name": "Chelours",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 34,
+  "attack": 226,
+  "defense": 141,
+  "max_hp": 217,
+  "total_dps": 46,
+  "attack_power": 31188,
+  "defense_power": 30597,
+  "fighting_duration": 5.89,
+  "total_power": 67.25,
+  "power_max_potential": 67.25,
+  "image_name": "p760"
+},{
+  "_id": {
+    "$oid": "630a6260779dce336f2e8bf0"
+  },
+  "name": "Flamajou",
+  "main_type": "feu",
+  "best_quick_move_dps": 15.3,
+  "best_main_move_dps": 32.3,
+  "attack": 104,
+  "defense": 94,
+  "max_hp": 120,
+  "total_dps": 47.59999999999999,
+  "attack_power": 14851.2,
+  "defense_power": 11280,
+  "fighting_duration": 4.56,
+  "total_power": 28.44,
+  "power_max_potential": 58.28,
+  "image_name": "p513"
+},{
+  "_id": {
+    "$oid": "630a627b779dce336f2e8bf1"
+  },
+  "name": "Flamoutan",
+  "main_type": "feu",
+  "best_quick_move_dps": 15.3,
+  "best_main_move_dps": 38.2,
+  "attack": 206,
+  "defense": 133,
+  "max_hp": 154,
+  "total_dps": 53.5,
+  "attack_power": 33063,
+  "defense_power": 20482,
+  "fighting_duration": 3.72,
+  "total_power": 58.28,
+  "power_max_potential": 58.28,
+  "image_name": "p514"
+},{
+  "_id": {
+    "$oid": "630a62cd779dce336f2e8bf3"
+  },
+  "name": "Aflamanoir",
+  "main_type": "feu",
+  "best_quick_move_dps": 15.3,
+  "best_main_move_dps": 38.2,
+  "attack": 204,
+  "defense": 129,
+  "max_hp": 168,
+  "total_dps": 53.5,
+  "attack_power": 32742,
+  "defense_power": 21672,
+  "fighting_duration": 3.97,
+  "total_power": 59.23,
+  "power_max_potential": 59.23,
+  "image_name": "p631"
+},{
+  "_id": {
+    "$oid": "630a6304779dce336f2e8bf4"
+  },
+  "name": "Tadmorv",
+  "main_type": "poison",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 41.7,
+  "attack": 135,
+  "defense": 90,
+  "max_hp": 162,
+  "total_dps": 56.7,
+  "attack_power": 22963.5,
+  "defense_power": 14580,
+  "fighting_duration": 3.81,
+  "total_power": 40.87,
+  "power_max_potential": 77.02,
+  "image_name": "p88f40"
+},{
+  "_id": {
+    "$oid": "630a631b779dce336f2e8bf5"
+  },
+  "name": "Grotadmorv",
+  "main_type": "poison",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 50.3,
+  "attack": 190,
+  "defense": 172,
+  "max_hp": 195,
+  "total_dps": 65.3,
+  "attack_power": 37221,
+  "defense_power": 33540,
+  "fighting_duration": 5.41,
+  "total_power": 77.02,
+  "power_max_potential": 77.02,
+  "image_name": "p89f42"
+},{
+  "_id": {
+    "$oid": "630a634a779dce336f2e8bf7"
+  },
+  "name": "Passerouge",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 27.5,
+  "attack": 95,
+  "defense": 80,
+  "max_hp": 113,
+  "total_dps": 39.5,
+  "attack_power": 11257.5,
+  "defense_power": 9040,
+  "fighting_duration": 4.82,
+  "total_power": 22.09,
+  "power_max_potential": 80.28,
+  "image_name": "p661"
+},{
+  "_id": {
+    "$oid": "630a635e779dce336f2e8bf8"
+  },
+  "name": "Braisillon",
+  "main_type": "feu",
+  "best_quick_move_dps": 13.8,
+  "best_main_move_dps": 27.5,
+  "attack": 145,
+  "defense": 110,
+  "max_hp": 136,
+  "total_dps": 41.3,
+  "attack_power": 17965.5,
+  "defense_power": 14960,
+  "fighting_duration": 5,
+  "total_power": 35.84,
+  "power_max_potential": 80.28,
+  "image_name": "p662"
+},{
+  "_id": {
+    "$oid": "630a6373779dce336f2e8bf9"
+  },
+  "name": "Flambusard",
+  "main_type": "feu",
+  "best_quick_move_dps": 15.3,
+  "best_main_move_dps": 78,
+  "attack": 176,
+  "defense": 155,
+  "max_hp": 158,
+  "total_dps": 93.3,
+  "attack_power": 49262.39999999999,
+  "defense_power": 24490,
+  "fighting_duration": 2.98,
+  "total_power": 80.28,
+  "power_max_potential": 80.28,
+  "image_name": "p663"
+},{
+  "_id": {
+    "$oid": "630a63b0779dce336f2e8bfc"
+  },
+  "name": "Hippopotas",
+  "main_type": "sol",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 25.5,
+  "attack": 124,
+  "defense": 118,
+  "max_hp": 145,
+  "total_dps": 37.5,
+  "attack_power": 13950,
+  "defense_power": 17110,
+  "fighting_duration": 7.36,
+  "total_power": 33.81,
+  "power_max_potential": 72.17,
+  "image_name": "p449f372"
+},{
+  "_id": {
+    "$oid": "630a63c7779dce336f2e8bfd"
+  },
+  "name": "Hippodocus",
+  "main_type": "sol",
+  "best_quick_move_dps": 13.3,
+  "best_main_move_dps": 33.3,
+  "attack": 201,
+  "defense": 191,
+  "max_hp": 200,
+  "total_dps": 46.59999999999999,
+  "attack_power": 28099.8,
+  "defense_power": 38200,
+  "fighting_duration": 8.16,
+  "total_power": 72.17,
+  "power_max_potential": 72.17,
+  "image_name": "p450f373"
+},{
+  "_id": {
+    "$oid": "630a63f4779dce336f2e8bff"
+  },
+  "name": "Girafarig",
+  "main_type": "normal",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 38.6,
+  "attack": 182,
+  "defense": 133,
+  "max_hp": 147,
+  "total_dps": 53.6,
+  "attack_power": 29265.6,
+  "defense_power": 19551,
+  "fighting_duration": 4.01,
+  "total_power": 53.14,
+  "power_max_potential": 53.14,
+  "image_name": "p203"
+},{
+  "_id": {
+    "$oid": "630a6420779dce336f2e8c00"
+  },
+  "name": "Galekid",
+  "main_type": "acier",
+  "best_quick_move_dps": 13.7,
+  "best_main_move_dps": 37.9,
+  "attack": 121,
+  "defense": 141,
+  "max_hp": 120,
+  "total_dps": 51.59999999999999,
+  "attack_power": 18730.8,
+  "defense_power": 16920,
+  "fighting_duration": 5.42,
+  "total_power": 38.81,
+  "power_max_potential": 77.59,
+  "image_name": "p304f490"
+},{
+  "_id": {
+    "$oid": "630a6434779dce336f2e8c01"
+  },
+  "name": "Galegon",
+  "main_type": "acier",
+  "best_quick_move_dps": 13.7,
+  "best_main_move_dps": 40,
+  "attack": 158,
+  "defense": 198,
+  "max_hp": 134,
+  "total_dps": 53.7,
+  "attack_power": 25453.8,
+  "defense_power": 26532,
+  "fighting_duration": 6.25,
+  "total_power": 56.59,
+  "power_max_potential": 77.59,
+  "image_name": "p305f491"
+},{
+  "_id": {
+    "$oid": "630a6449779dce336f2e8c02"
+  },
+  "name": "Galeking",
+  "main_type": "acier",
+  "best_quick_move_dps": 16.4,
+  "best_main_move_dps": 40,
+  "attack": 198,
+  "defense": 257,
+  "max_hp": 147,
+  "total_dps": 56.4,
+  "attack_power": 33501.6,
+  "defense_power": 37779,
+  "fighting_duration": 6.77,
+  "total_power": 77.59,
+  "power_max_potential": 77.59,
+  "image_name": "p306f492"
+},{
+  "_id": {
+    "$oid": "630a64f0779dce336f2e8c05"
+  },
+  "name": "Ponchiot",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 32,
+  "attack": 107,
+  "defense": 86,
+  "max_hp": 113,
+  "total_dps": 44,
+  "attack_power": 14124,
+  "defense_power": 9718,
+  "fighting_duration": 4.13,
+  "total_power": 25.95,
+  "power_max_potential": 63.29,
+  "image_name": "p506"
+},{
+  "_id": {
+    "$oid": "630a6502779dce336f2e8c06"
+  },
+  "name": "Ponchien",
+  "main_type": "normal",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 31,
+  "attack": 145,
+  "defense": 126,
+  "max_hp": 140,
+  "total_dps": 41,
+  "attack_power": 17835,
+  "defense_power": 17640,
+  "fighting_duration": 5.93,
+  "total_power": 38.62,
+  "power_max_potential": 63.29,
+  "image_name": "p507"
+},{
+  "_id": {
+    "$oid": "630a6516779dce336f2e8c07"
+  },
+  "name": "Mastouffe",
+  "main_type": "normal",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 34.6,
+  "attack": 206,
+  "defense": 182,
+  "max_hp": 168,
+  "total_dps": 44.6,
+  "attack_power": 27562.8,
+  "defense_power": 30576,
+  "fighting_duration": 6.66,
+  "total_power": 63.29,
+  "power_max_potential": 63.29,
+  "image_name": "p508"
+},{
+  "_id": {
+    "$oid": "630a6567779dce336f2e8c0a"
+  },
+  "name": "Chacripan",
+  "main_type": "tenebres",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 32,
+  "attack": 98,
+  "defense": 73,
+  "max_hp": 107,
+  "total_dps": 44,
+  "attack_power": 12936,
+  "defense_power": 7811,
+  "fighting_duration": 3.62,
+  "total_power": 22.58,
+  "power_max_potential": 57.32,
+  "image_name": "p509"
+},{
+  "_id": {
+    "$oid": "630a657b779dce336f2e8c0b"
+  },
+  "name": "Léopardus",
+  "main_type": "tenebres",
+  "best_quick_move_dps": 13.1,
+  "best_main_move_dps": 54.5,
+  "attack": 187,
+  "defense": 106,
+  "max_hp": 139,
+  "total_dps": 67.6,
+  "attack_power": 37923.6,
+  "defense_power": 14734,
+  "fighting_duration": 2.33,
+  "total_power": 57.32,
+  "power_max_potential": 57.32,
+  "image_name": "p510"
+},{
+  "_id": {
+    "$oid": "630a65a6779dce336f2e8c0d"
+  },
+  "name": "Natu",
+  "main_type": "psy",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 33.9,
+  "attack": 134,
+  "defense": 89,
+  "max_hp": 106,
+  "total_dps": 43.9,
+  "attack_power": 17647.8,
+  "defense_power": 9434,
+  "fighting_duration": 3.21,
+  "total_power": 29.48,
+  "power_max_potential": 64.45,
+  "image_name": "p177"
+},{
+  "_id": {
+    "$oid": "630a65ba779dce336f2e8c0e"
+  },
+  "name": "Xatu",
+  "main_type": "psy",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 53.3,
+  "attack": 192,
+  "defense": 146,
+  "max_hp": 140,
+  "total_dps": 67.3,
+  "attack_power": 38764.8,
+  "defense_power": 20440,
+  "fighting_duration": 3.16,
+  "total_power": 64.45,
+  "power_max_potential": 64.45,
+  "image_name": "p178"
+},{
+  "_id": {
+    "$oid": "630a65e6779dce336f2e8c10"
+  },
+  "name": "Rapion",
+  "main_type": "poison",
+  "best_quick_move_dps": 10.9,
+  "best_main_move_dps": 41.7,
+  "attack": 93,
+  "defense": 151,
+  "max_hp": 106,
+  "total_dps": 52.6,
+  "attack_power": 14675.4,
+  "defense_power": 16006,
+  "fighting_duration": 6.54,
+  "total_power": 33.4,
+  "power_max_potential": 65.3,
+  "image_name": "p451f525"
+},{
+  "_id": {
+    "$oid": "630a65fb779dce336f2e8c11"
+  },
+  "name": "Drascore",
+  "main_type": "poison",
+  "best_quick_move_dps": 14.4,
+  "best_main_move_dps": 41.7,
+  "attack": 180,
+  "defense": 202,
+  "max_hp": 147,
+  "total_dps": 56.1,
+  "attack_power": 30294,
+  "defense_power": 29694,
+  "fighting_duration": 5.88,
+  "total_power": 65.3,
+  "power_max_potential": 65.3,
+  "image_name": "p452f526"
+},{
+  "_id": {
+    "$oid": "630a6631779dce336f2e8c13"
+  },
+  "name": "Plumeline",
+  "main_type": "feu",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 48.9,
+  "attack": 196,
+  "defense": 145,
+  "max_hp": 154,
+  "total_dps": 62.9,
+  "attack_power": 36985.2,
+  "defense_power": 22330,
+  "fighting_duration": 3.62,
+  "total_power": 64.57,
+  "power_max_potential": 64.57,
+  "image_name": "p741f662"
+},{
+  "_id": {
+    "$oid": "630a667e779dce336f2e8c14"
+  },
+  "name": "Cornèbre",
+  "main_type": "tenebres",
+  "best_quick_move_dps": 13.3,
+  "best_main_move_dps": 33.9,
+  "attack": 175,
+  "defense": 87,
+  "max_hp": 134,
+  "total_dps": 47.2,
+  "attack_power": 24780,
+  "defense_power": 11658,
+  "fighting_duration": 2.82,
+  "total_power": 39.66,
+  "power_max_potential": 93.48,
+  "image_name": "p198f337"
+},{
+  "_id": {
+    "$oid": "630a6693779dce336f2e8c15"
+  },
+  "name": "Corboss",
+  "main_type": "tenebres",
+  "best_quick_move_dps": 13.1,
+  "best_main_move_dps": 78,
+  "attack": 243,
+  "defense": 103,
+  "max_hp": 189,
+  "total_dps": 91.1,
+  "attack_power": 66411.9,
+  "defense_power": 19467,
+  "fighting_duration": 1.76,
+  "total_power": 93.48,
+  "power_max_potential": 93.48,
+  "image_name": "p430f368"
+},{
+  "_id": {
+    "$oid": "630a66f0779dce336f2e8c17"
+  },
+  "name": "Manglouton",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 38.4,
+  "attack": 122,
+  "defense": 56,
+  "max_hp": 117,
+  "total_dps": 50.4,
+  "attack_power": 18446.4,
+  "defense_power": 6552,
+  "fighting_duration": 2.13,
+  "total_power": 27.21,
+  "power_max_potential": 53.21,
+  "image_name": "p734"
+},{
+  "_id": {
+    "$oid": "630a6706779dce336f2e8c18"
+  },
+  "name": "Argouste",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 38.4,
+  "attack": 194,
+  "defense": 113,
+  "max_hp": 173,
+  "total_dps": 50.4,
+  "attack_power": 29332.8,
+  "defense_power": 19549,
+  "fighting_duration": 4,
+  "total_power": 53.21,
+  "power_max_potential": 53.21,
+  "image_name": "p735"
+},{
+  "_id": {
+    "$oid": "630a6746779dce336f2e8c1a"
+  },
+  "name": "Smogo",
+  "main_type": "poison",
+  "best_quick_move_dps": 9.1,
+  "best_main_move_dps": 41.7,
+  "attack": 119,
+  "defense": 141,
+  "max_hp": 106,
+  "total_dps": 50.8,
+  "attack_power": 18135.6,
+  "defense_power": 14946,
+  "fighting_duration": 4.94,
+  "total_power": 36.01,
+  "power_max_potential": 58.89,
+  "image_name": "p109f322"
+},{
+  "_id": {
+    "$oid": "630a675b779dce336f2e8c1b"
+  },
+  "name": "Smogogo",
+  "main_type": "poison",
+  "best_quick_move_dps": 9.1,
+  "best_main_move_dps": 41.7,
+  "attack": 174,
+  "defense": 197,
+  "max_hp": 140,
+  "total_dps": 50.8,
+  "attack_power": 26517.6,
+  "defense_power": 27580,
+  "fighting_duration": 6.24,
+  "total_power": 58.89,
+  "power_max_potential": 58.89,
+  "image_name": "p110f324"
+},{
+  "_id": {
+    "$oid": "630a67a6779dce336f2e8c1d"
+  },
+  "name": "Laporeille",
+  "main_type": "normal",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 25,
+  "attack": 130,
+  "defense": 105,
+  "max_hp": 127,
+  "total_dps": 39,
+  "attack_power": 15210,
+  "defense_power": 13335,
+  "fighting_duration": 5.26,
+  "total_power": 31.07,
+  "power_max_potential": 60.84,
+  "image_name": "p427"
+},{
+  "_id": {
+    "$oid": "630a67bb779dce336f2e8c1e"
+  },
+  "name": "Lockpin",
+  "main_type": "normal",
+  "best_quick_move_dps": 14,
+  "best_main_move_dps": 47.4,
+  "attack": 156,
+  "defense": 194,
+  "max_hp": 140,
+  "total_dps": 61.4,
+  "attack_power": 28735.2,
+  "defense_power": 27160,
+  "fighting_duration": 5.67,
+  "total_power": 60.84,
+  "power_max_potential": 60.84,
+  "image_name": "p428"
+},{
+  "_id": {
+    "$oid": "630a6804779dce336f2e8c20"
+  },
+  "name": "Chaglam",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 31,
+  "attack": 109,
+  "defense": 82,
+  "max_hp": 118,
+  "total_dps": 43,
+  "attack_power": 14061,
+  "defense_power": 9676,
+  "fighting_duration": 4.13,
+  "total_power": 25.84,
+  "power_max_potential": 47.07,
+  "image_name": "p431"
+},{
+  "_id": {
+    "$oid": "630a6817779dce336f2e8c21"
+  },
+  "name": "Chaffreux",
+  "main_type": "normal",
+  "best_quick_move_dps": 14.4,
+  "best_main_move_dps": 31,
+  "attack": 172,
+  "defense": 133,
+  "max_hp": 149,
+  "total_dps": 45.4,
+  "attack_power": 23426.4,
+  "defense_power": 19817,
+  "fighting_duration": 5.08,
+  "total_power": 47.07,
+  "power_max_potential": 47.07,
+  "image_name": "p432"
+},{
+  "_id": {
+    "$oid": "630a6845779dce336f2e8c23"
+  },
+  "name": "Trompignon",
+  "main_type": "plante",
+  "best_quick_move_dps": 11.1,
+  "best_main_move_dps": 41.5,
+  "attack": 97,
+  "defense": 91,
+  "max_hp": 146,
+  "total_dps": 52.6,
+  "attack_power": 15306.6,
+  "defense_power": 13286,
+  "fighting_duration": 5.21,
+  "total_power": 31.12,
+  "power_max_potential": 58.1,
+  "image_name": "p590"
+},{
+  "_id": {
+    "$oid": "630a6859779dce336f2e8c24"
+  },
+  "name": "Gaulet",
+  "main_type": "plante",
+  "best_quick_move_dps": 11.1,
+  "best_main_move_dps": 41.5,
+  "attack": 155,
+  "defense": 139,
+  "max_hp": 208,
+  "total_dps": 52.6,
+  "attack_power": 24459,
+  "defense_power": 28912,
+  "fighting_duration": 7.09,
+  "total_power": 58.1,
+  "power_max_potential": 58.1,
+  "image_name": "p591"
+},{
+  "_id": {
+    "$oid": "630a6883779dce336f2e8c27"
+  },
+  "name": "Limagma",
+  "main_type": "feu",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 32.3,
+  "attack": 118,
+  "defense": 71,
+  "max_hp": 106,
+  "total_dps": 44.3,
+  "attack_power": 15682.2,
+  "defense_power": 7526,
+  "fighting_duration": 2.88,
+  "total_power": 25.26,
+  "power_max_potential": 53.59,
+  "image_name": "p218"
+},{
+  "_id": {
+    "$oid": "630a6896779dce336f2e8c28"
+  },
+  "name": "Volcaropod",
+  "main_type": "feu",
+  "best_quick_move_dps": 15.1,
+  "best_main_move_dps": 48,
+  "attack": 139,
+  "defense": 191,
+  "max_hp": 120,
+  "total_dps": 63.1,
+  "attack_power": 26312.7,
+  "defense_power": 22920,
+  "fighting_duration": 5.23,
+  "total_power": 53.59,
+  "power_max_potential": 53.59,
+  "image_name": "p219"
+},{
+  "_id": {
+    "$oid": "630a68c5779dce336f2e8c2a"
+  },
+  "name": "Axoloto",
+  "main_type": "eau",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 28.7,
+  "attack": 75,
+  "defense": 66,
+  "max_hp": 127,
+  "total_dps": 40.7,
+  "attack_power": 9157.5,
+  "defense_power": 8382,
+  "fighting_duration": 5.49,
+  "total_power": 19.09,
+  "power_max_potential": 57.47,
+  "image_name": "p194f479"
+},{
+  "_id": {
+    "$oid": "630a68db779dce336f2e8c2b"
+  },
+  "name": "Maraiste",
+  "main_type": "eau",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 46.7,
+  "attack": 152,
+  "defense": 143,
+  "max_hp": 182,
+  "total_dps": 58.7,
+  "attack_power": 26767.2,
+  "defense_power": 26026,
+  "fighting_duration": 5.83,
+  "total_power": 57.47,
+  "power_max_potential": 57.47,
+  "image_name": "p195f480"
+},{
+  "_id": {
+    "$oid": "630a6905779dce336f2e8c2d"
+  },
+  "name": "Zigzaton",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 60,
+  "attack": 58,
+  "defense": 80,
+  "max_hp": 103,
+  "total_dps": 72,
+  "attack_power": 12528,
+  "defense_power": 8240,
+  "fighting_duration": 3.95,
+  "total_power": 22.61,
+  "power_max_potential": 55.4,
+  "image_name": "p263f345"
+},{
+  "_id": {
+    "$oid": "630a691d779dce336f2e8c2e"
+  },
+  "name": "Linéon",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 60,
+  "attack": 142,
+  "defense": 128,
+  "max_hp": 158,
+  "total_dps": 72,
+  "attack_power": 30672,
+  "defense_power": 20224,
+  "fighting_duration": 3.96,
+  "total_power": 55.4,
+  "power_max_potential": 55.4,
+  "image_name": "p264f347"
+},{
+  "_id": {
+    "$oid": "630a6935779dce336f2e8c2f"
+  },
+  "name": "Ixon",
+  "main_type": "tenebres",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 47.4,
+  "attack": 180,
+  "defense": 194,
+  "max_hp": 179,
+  "total_dps": 57.4,
+  "attack_power": 30996,
+  "defense_power": 34726,
+  "fighting_duration": 6.72,
+  "total_power": 71.54,
+  "power_max_potential": 71.54,
+  "image_name": "p862f416"
+},{
+  "_id": {
+    "$oid": "630a6966779dce336f2e8c31"
+  },
+  "name": "Morphéo",
+  "main_type": "feu",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 41.3,
+  "attack": 139,
+  "defense": 139,
+  "max_hp": 172,
+  "total_dps": 53.3,
+  "attack_power": 22226.1,
+  "defense_power": 23908,
+  "fighting_duration": 6.45,
+  "total_power": 50.22,
+  "power_max_potential": 50.22,
+  "image_name": "p351f4"
+},{
+  "_id": {
+    "$oid": "630a6993779dce336f2e8c32"
+  },
+  "name": "Muciole",
+  "main_type": "insecte",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 32.4,
+  "attack": 143,
+  "defense": 166,
+  "max_hp": 140,
+  "total_dps": 44.4,
+  "attack_power": 19047.6,
+  "defense_power": 23240,
+  "fighting_duration": 7.32,
+  "total_power": 46.03,
+  "power_max_potential": 46.03,
+  "image_name": "p313"
+},{
+  "_id": {
+    "$oid": "630a69c2779dce336f2e8c33"
+  },
+  "name": "Yanma",
+  "main_type": "insecte",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 27.5,
+  "attack": 154,
+  "defense": 94,
+  "max_hp": 140,
+  "total_dps": 39.5,
+  "attack_power": 18249,
+  "defense_power": 13160,
+  "fighting_duration": 4.33,
+  "total_power": 34.19,
+  "power_max_potential": 62.19,
+  "image_name": "p193"
+},{
+  "_id": {
+    "$oid": "630a69d6779dce336f2e8c34"
+  },
+  "name": "Yanmega",
+  "main_type": "insecte",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 32.4,
+  "attack": 231,
+  "defense": 156,
+  "max_hp": 169,
+  "total_dps": 44.4,
+  "attack_power": 30769.2,
+  "defense_power": 26364,
+  "fighting_duration": 5.14,
+  "total_power": 62.19,
+  "power_max_potential": 62.19,
+  "image_name": "p469"
+},{
+  "_id": {
+    "$oid": "630a6a22779dce336f2e8c36"
+  },
+  "name": "Sapereau",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 38.9,
+  "attack": 68,
+  "defense": 72,
+  "max_hp": 103,
+  "total_dps": 50.9,
+  "attack_power": 10383.6,
+  "defense_power": 7416,
+  "fighting_duration": 4.29,
+  "total_power": 19.38,
+  "power_max_potential": 50.07,
+  "image_name": "p659"
+},{
+  "_id": {
+    "$oid": "630a6a37779dce336f2e8c37"
+  },
+  "name": "Excavarenne",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 47.4,
+  "attack": 112,
+  "defense": 155,
+  "max_hp": 168,
+  "total_dps": 59.4,
+  "attack_power": 19958.4,
+  "defense_power": 26040,
+  "fighting_duration": 7.83,
+  "total_power": 50.07,
+  "power_max_potential": 50.07,
+  "image_name": "p660"
+},{
+  "_id": {
+    "$oid": "630a6a62779dce336f2e8c39"
+  },
+  "name": "Skitty",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 34.6,
+  "attack": 84,
+  "defense": 79,
+  "max_hp": 120,
+  "total_dps": 46.6,
+  "attack_power": 11743.2,
+  "defense_power": 9480,
+  "fighting_duration": 4.84,
+  "total_power": 23.1,
+  "power_max_potential": 40.02,
+  "image_name": "p300"
+},{
+  "_id": {
+    "$oid": "630a6a75779dce336f2e8c3a"
+  },
+  "name": "Delcatty",
+  "main_type": "normal",
+  "best_quick_move_dps": 11.1,
+  "best_main_move_dps": 34.6,
+  "attack": 132,
+  "defense": 127,
+  "max_hp": 147,
+  "total_dps": 45.7,
+  "attack_power": 18097.2,
+  "defense_power": 18669,
+  "fighting_duration": 6.19,
+  "total_power": 40.02,
+  "power_max_potential": 40.02,
+  "image_name": "p301"
+},{
+  "_id": {
+    "$oid": "630a6aa4779dce336f2e8c3c"
+  },
+  "name": "Granivol",
+  "main_type": "plante",
+  "best_quick_move_dps": 8.7,
+  "best_main_move_dps": 41.5,
+  "attack": 67,
+  "defense": 94,
+  "max_hp": 99,
+  "total_dps": 50.2,
+  "attack_power": 10090.2,
+  "defense_power": 9306,
+  "fighting_duration": 5.53,
+  "total_power": 21.11,
+  "power_max_potential": 51.18,
+  "image_name": "p187f452"
+},{
+  "_id": {
+    "$oid": "630a6ab8779dce336f2e8c3d"
+  },
+  "name": "Floravol",
+  "main_type": "plante",
+  "best_quick_move_dps": 8.7,
+  "best_main_move_dps": 41.5,
+  "attack": 91,
+  "defense": 120,
+  "max_hp": 127,
+  "total_dps": 50.2,
+  "attack_power": 13704.6,
+  "defense_power": 15240,
+  "fighting_duration": 6.67,
+  "total_power": 31.51,
+  "power_max_potential": 51.18,
+  "image_name": "p188f453"
+},{
+  "_id": {
+    "$oid": "630a6acb779dce336f2e8c3e"
+  },
+  "name": "Cotovol",
+  "main_type": "plante",
+  "best_quick_move_dps": 9.1,
+  "best_main_move_dps": 44.1,
+  "attack": 118,
+  "defense": 183,
+  "max_hp": 154,
+  "total_dps": 53.2,
+  "attack_power": 18832.8,
+  "defense_power": 28182,
+  "fighting_duration": 8.98,
+  "total_power": 51.18,
+  "power_max_potential": 51.18,
+  "image_name": "p189f454"
+},{
+  "_id": {
+    "$oid": "630a6b0f779dce336f2e8c41"
+  },
+  "name": "Lombre",
+  "main_type": "eau",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 41.5,
+  "attack": 112,
+  "defense": 119,
+  "max_hp": 134,
+  "total_dps": 53.5,
+  "attack_power": 17976,
+  "defense_power": 15946,
+  "fighting_duration": 5.32,
+  "total_power": 36.92,
+  "power_max_potential": 62.73,
+  "image_name": "p271"
+},{
+  "_id": {
+    "$oid": "630a6b21779dce336f2e8c42"
+  },
+  "name": "Ludicolo",
+  "main_type": "eau",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 44.1,
+  "attack": 173,
+  "defense": 176,
+  "max_hp": 162,
+  "total_dps": 56.1,
+  "attack_power": 29115.9,
+  "defense_power": 28512,
+  "fighting_duration": 5.88,
+  "total_power": 62.73,
+  "power_max_potential": 62.73,
+  "image_name": "p272"
+},{
+  "_id": {
+    "$oid": "630a6b5e779dce336f2e8c45"
+  },
+  "name": "Léviator",
+  "main_type": "eau",
+  "best_quick_move_dps": 16,
+  "best_main_move_dps": 47.3,
+  "attack": 237,
+  "defense": 186,
+  "max_hp": 182,
+  "total_dps": 63.3,
+  "attack_power": 45006.3,
+  "defense_power": 33852,
+  "fighting_duration": 4.51,
+  "total_power": 85.84,
+  "power_max_potential": 85.84,
+  "image_name": "p130f154"
+},{
+  "_id": {
+    "$oid": "630a6b99779dce336f2e8c47"
+  },
+  "name": "Métamorph",
+  "main_type": "normal",
+  "best_quick_move_dps": 0,
+  "best_main_move_dps": 19.1,
+  "attack": 91,
+  "defense": 91,
+  "max_hp": 117,
+  "total_dps": 19.1,
+  "attack_power": 5214.3,
+  "defense_power": 10647,
+  "fighting_duration": 12.25,
+  "total_power": 17.27,
+  "power_max_potential": 17.27,
+  "image_name": "p132"
+},{
+  "_id": {
+    "$oid": "630a6bea779dce336f2e8c48"
+  },
+  "name": "Grindur",
+  "main_type": "plante",
+  "best_quick_move_dps": 13.7,
+  "best_main_move_dps": 37.9,
+  "attack": 82,
+  "defense": 155,
+  "max_hp": 112,
+  "total_dps": 51.59999999999999,
+  "attack_power": 12693.6,
+  "defense_power": 17360,
+  "fighting_duration": 8.21,
+  "total_power": 32.71,
+  "power_max_potential": 65.62,
+  "image_name": "p597"
+},{
+  "_id": {
+    "$oid": "630a6bfe779dce336f2e8c49"
+  },
+  "name": "Noacier",
+  "main_type": "plante",
+  "best_quick_move_dps": 13.7,
+  "best_main_move_dps": 41.5,
+  "attack": 158,
+  "defense": 223,
+  "max_hp": 153,
+  "total_dps": 55.2,
+  "attack_power": 26164.8,
+  "defense_power": 34119,
+  "fighting_duration": 7.82,
+  "total_power": 65.62,
+  "power_max_potential": 65.62,
+  "image_name": "p598"
+},{
+  "_id": {
+    "$oid": "630a6d09779dce336f2e8c4b"
+  },
+  "name": "Sabelette",
+  "main_type": "sol",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 25.5,
+  "attack": 126,
+  "defense": 120,
+  "max_hp": 120,
+  "total_dps": 35.5,
+  "attack_power": 13419,
+  "defense_power": 14400,
+  "fighting_duration": 6.44,
+  "total_power": 30.28,
+  "power_max_potential": 63.03,
+  "image_name": "p27f18"
+},{
+  "_id": {
+    "$oid": "630a6d20779dce336f2e8c4c"
+  },
+  "name": "Sablaireau",
+  "main_type": "sol",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 46.7,
+  "attack": 182,
+  "defense": 175,
+  "max_hp": 154,
+  "total_dps": 56.7,
+  "attack_power": 30958.2,
+  "defense_power": 26950,
+  "fighting_duration": 5.22,
+  "total_power": 63.03,
+  "power_max_potential": 63.03,
+  "image_name": "p28f20"
+},{
+  "_id": {
+    "$oid": "630a6d87779dce336f2e8c4e"
+  },
+  "name": "Coxy",
+  "main_type": "insecte",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 27.5,
+  "attack": 72,
+  "defense": 118,
+  "max_hp": 106,
+  "total_dps": 39.5,
+  "attack_power": 8532,
+  "defense_power": 12508,
+  "fighting_duration": 8.8,
+  "total_power": 22.9,
+  "power_max_potential": 40.26,
+  "image_name": "p165"
+},{
+  "_id": {
+    "$oid": "630a6d9c779dce336f2e8c4f"
+  },
+  "name": "Coxyclaque",
+  "main_type": "insecte",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 32.4,
+  "attack": 107,
+  "defense": 179,
+  "max_hp": 127,
+  "total_dps": 44.4,
+  "attack_power": 14252.4,
+  "defense_power": 22733,
+  "fighting_duration": 9.57,
+  "total_power": 40.26,
+  "power_max_potential": 40.26,
+  "image_name": "p166"
+},{
+  "_id": {
+    "$oid": "630a9925faedc418e007ec3f"
+  },
+  "name": "Qwilfish",
+  "main_type": "eau",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 31.6,
+  "attack": 184,
+  "defense": 138,
+  "max_hp": 140,
+  "total_dps": 43.6,
+  "attack_power": 24067.2,
+  "defense_power": 19320,
+  "fighting_duration": 4.82,
+  "total_power": 47.23,
+  "power_max_potential": 47.23,
+  "image_name": "p211f671"
+},{
+  "_id": {
+    "$oid": "630aef60faedc418e007ec40"
+  },
+  "name": "Mangriff",
+  "main_type": "normal",
+  "best_quick_move_dps": 12.9,
+  "best_main_move_dps": 43.5,
+  "attack": 222,
+  "defense": 124,
+  "max_hp": 151,
+  "total_dps": 56.4,
+  "attack_power": 37562.39999999999,
+  "defense_power": 18724,
+  "fighting_duration": 2.99,
+  "total_power": 61.27,
+  "power_max_potential": 61.27,
+  "image_name": "p335"
+},{
+  "_id": {
+    "$oid": "630af039faedc418e007ec41"
+  },
+  "name": "Pikachu",
+  "main_type": "electrik",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 41.5,
+  "attack": 112,
+  "defense": 96,
+  "max_hp": 99,
+  "total_dps": 51.5,
+  "attack_power": 17304,
+  "defense_power": 9504,
+  "fighting_duration": 3.3,
+  "total_power": 29.18,
+  "power_max_potential": 54.8,
+  "image_name": "p25f310"
+},{
+  "_id": {
+    "$oid": "630af056faedc418e007ec42"
+  },
+  "name": "Raichu",
+  "main_type": "electrik",
+  "best_quick_move_dps": 10.5,
+  "best_main_move_dps": 41.5,
+  "attack": 193,
+  "defense": 151,
+  "max_hp": 134,
+  "total_dps": 52,
+  "attack_power": 30108,
+  "defense_power": 20234,
+  "fighting_duration": 4.03,
+  "total_power": 54.8,
+  "power_max_potential": 54.8,
+  "image_name": "p26f16"
+},{
+  "_id": {
+    "$oid": "630af08dfaedc418e007ec44"
+  },
+  "name": "Nidoran♂",
+  "main_type": "poison",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 41.7,
+  "attack": 105,
+  "defense": 76,
+  "max_hp": 114,
+  "total_dps": 51.7,
+  "attack_power": 16285.5,
+  "defense_power": 8664,
+  "fighting_duration": 3.19,
+  "total_power": 27.16,
+  "power_max_potential": 68.61,
+  "image_name": "p32f423"
+},{
+  "_id": {
+    "$oid": "630af0a3faedc418e007ec45"
+  },
+  "name": "Nidorino",
+  "main_type": "poison",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 41.7,
+  "attack": 137,
+  "defense": 111,
+  "max_hp": 135,
+  "total_dps": 56.7,
+  "attack_power": 23303.7,
+  "defense_power": 14985,
+  "fighting_duration": 3.86,
+  "total_power": 41.68,
+  "power_max_potential": 68.61,
+  "image_name": "p33f424"
+},{
+  "_id": {
+    "$oid": "630af0bcfaedc418e007ec46"
+  },
+  "name": "Nidoking",
+  "main_type": "poison",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 46.7,
+  "attack": 204,
+  "defense": 156,
+  "max_hp": 162,
+  "total_dps": 61.7,
+  "attack_power": 37760.4,
+  "defense_power": 25272,
+  "fighting_duration": 4.02,
+  "total_power": 68.61,
+  "power_max_potential": 68.61,
+  "image_name": "p34f425"
+},{
+  "_id": {
+    "$oid": "630af29ffaedc418e007ec49"
+  },
+  "name": "Évoli",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 37.2,
+  "attack": 104,
+  "defense": 114,
+  "max_hp": 127,
+  "total_dps": 49.2,
+  "attack_power": 15350.4,
+  "defense_power": 14478,
+  "fighting_duration": 5.66,
+  "total_power": 32.47,
+  "power_max_potential": 80.01,
+  "image_name": "p133"
+},{
+  "_id": {
+    "$oid": "630af2b5faedc418e007ec4a"
+  },
+  "name": "Aquali",
+  "main_type": "eau",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 47.3,
+  "attack": 205,
+  "defense": 161,
+  "max_hp": 230,
+  "total_dps": 59.3,
+  "attack_power": 36469.5,
+  "defense_power": 37030,
+  "fighting_duration": 6.09,
+  "total_power": 80.01,
+  "power_max_potential": 80.01,
+  "image_name": "p134"
+},{
+  "_id": {
+    "$oid": "630af2cdfaedc418e007ec4b"
+  },
+  "name": "Voltali",
+  "main_type": "electrik",
+  "best_quick_move_dps": 10.5,
+  "best_main_move_dps": 31.2,
+  "attack": 232,
+  "defense": 182,
+  "max_hp": 140,
+  "total_dps": 41.7,
+  "attack_power": 29023.2,
+  "defense_power": 25480,
+  "fighting_duration": 5.27,
+  "total_power": 59.33,
+  "power_max_potential": 80.01,
+  "image_name": "p135"
+},{
+  "_id": {
+    "$oid": "630af2e5faedc418e007ec4c"
+  },
+  "name": "Pyroli",
+  "main_type": "feu",
+  "best_quick_move_dps": 15.3,
+  "best_main_move_dps": 48,
+  "attack": 246,
+  "defense": 179,
+  "max_hp": 140,
+  "total_dps": 63.3,
+  "attack_power": 46715.39999999999,
+  "defense_power": 25060,
+  "fighting_duration": 3.22,
+  "total_power": 78.13,
+  "power_max_potential": 80.01,
+  "image_name": "p136"
+},{
+  "_id": {
+    "$oid": "630af2fefaedc418e007ec4d"
+  },
+  "name": "Mentali",
+  "main_type": "psy",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 38.6,
+  "attack": 261,
+  "defense": 175,
+  "max_hp": 140,
+  "total_dps": 53.6,
+  "attack_power": 41968.8,
+  "defense_power": 24500,
+  "fighting_duration": 3.5,
+  "total_power": 72.35,
+  "power_max_potential": 80.01,
+  "image_name": "p196"
+},{
+  "_id": {
+    "$oid": "630af314faedc418e007ec4e"
+  },
+  "name": "Noctali",
+  "main_type": "tenebres",
+  "best_quick_move_dps": 13.1,
+  "best_main_move_dps": 42,
+  "attack": 126,
+  "defense": 240,
+  "max_hp": 182,
+  "total_dps": 55.1,
+  "attack_power": 20827.8,
+  "defense_power": 43680,
+  "fighting_duration": 12.58,
+  "total_power": 70.22,
+  "power_max_potential": 80.01,
+  "image_name": "p197"
+},{
+  "_id": {
+    "$oid": "630af32cfaedc418e007ec4f"
+  },
+  "name": "Phyllali",
+  "main_type": "plante",
+  "best_quick_move_dps": 10,
+  "best_main_move_dps": 44.1,
+  "attack": 215,
+  "defense": 219,
+  "max_hp": 140,
+  "total_dps": 54.1,
+  "attack_power": 34894.5,
+  "defense_power": 30660,
+  "fighting_duration": 5.27,
+  "total_power": 71.36,
+  "power_max_potential": 80.01,
+  "image_name": "p470"
+},{
+  "_id": {
+    "$oid": "630af341faedc418e007ec50"
+  },
+  "name": "Givrali",
+  "main_type": "glace",
+  "best_quick_move_dps": 13.3,
+  "best_main_move_dps": 40,
+  "attack": 238,
+  "defense": 205,
+  "max_hp": 140,
+  "total_dps": 53.3,
+  "attack_power": 38056.2,
+  "defense_power": 28700,
+  "fighting_duration": 4.52,
+  "total_power": 72.67,
+  "power_max_potential": 80.01,
+  "image_name": "p471"
+},{
+  "_id": {
+    "$oid": "630af35afaedc418e007ec51"
+  },
+  "name": "Nymphali",
+  "main_type": "fee",
+  "best_quick_move_dps": 16,
+  "best_main_move_dps": 34.3,
+  "attack": 203,
+  "defense": 205,
+  "max_hp": 182,
+  "total_dps": 50.3,
+  "attack_power": 30632.7,
+  "defense_power": 37310,
+  "fighting_duration": 7.31,
+  "total_power": 73.96,
+  "power_max_potential": 80.01,
+  "image_name": "p700"
+},{
+  "_id": {
+    "$oid": "630af454faedc418e007ec5a"
+  },
+  "name": "Doduo",
+  "main_type": "normal",
+  "best_quick_move_dps": 12,
+  "best_main_move_dps": 78,
+  "attack": 158,
+  "defense": 83,
+  "max_hp": 99,
+  "total_dps": 90,
+  "attack_power": 42660,
+  "defense_power": 8217,
+  "fighting_duration": 1.16,
+  "total_power": 55.38,
+  "power_max_potential": 85.77,
+  "image_name": "p84"
+},{
+  "_id": {
+    "$oid": "630af469faedc418e007ec5b"
+  },
+  "name": "Dodrio",
+  "main_type": "normal",
+  "best_quick_move_dps": 13.8,
+  "best_main_move_dps": 78,
+  "attack": 218,
+  "defense": 140,
+  "max_hp": 134,
+  "total_dps": 91.8,
+  "attack_power": 60037.2,
+  "defense_power": 18760,
+  "fighting_duration": 1.87,
+  "total_power": 85.77,
+  "power_max_potential": 85.77,
+  "image_name": "p85"
+},{
+  "_id": {
+    "$oid": "630af4b2faedc418e007ec5d"
+  },
+  "name": "Archéomire",
+  "main_type": "acier",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 40,
+  "attack": 43,
+  "defense": 154,
+  "max_hp": 129,
+  "total_dps": 55,
+  "attack_power": 7095,
+  "defense_power": 19866,
+  "fighting_duration": 16.8,
+  "total_power": 29.35,
+  "power_max_potential": 61.34,
+  "image_name": "p436"
+},{
+  "_id": {
+    "$oid": "630af4cbfaedc418e007ec5e"
+  },
+  "name": "Archéodong",
+  "main_type": "acier",
+  "best_quick_move_dps": 15,
+  "best_main_move_dps": 38.6,
+  "attack": 161,
+  "defense": 213,
+  "max_hp": 143,
+  "total_dps": 53.6,
+  "attack_power": 25888.8,
+  "defense_power": 30459,
+  "fighting_duration": 7.06,
+  "total_power": 61.34,
+  "power_max_potential": 61.34,
+  "image_name": "p437"
+}]
