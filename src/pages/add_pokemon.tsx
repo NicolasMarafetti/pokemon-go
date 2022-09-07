@@ -15,6 +15,7 @@ interface AddPokemonProps {
 }
 
 interface AddPokemonState {
+  imageName: string;
   loading: boolean;
   name: string;
 }
@@ -28,6 +29,7 @@ interface AddPokemonReturnData {
 export default function AddPokemon(props: AddPokemonProps) {
   const [state, setState] = useState<AddPokemonState>({
     loading: false,
+    imageName: '',
     name: '',
   });
 
@@ -40,6 +42,41 @@ export default function AddPokemon(props: AddPokemonProps) {
   const imageNameInput = useRef<HTMLInputElement>(null);
 
   const router = useRouter();
+
+  const imageNameChanged = (e: ChangeEvent<HTMLInputElement>) => {
+    setState({
+      ...state,
+      imageName: e.currentTarget.value,
+    });
+  };
+
+  const pastedHtml = (e: ChangeEvent<HTMLInputElement>) => {
+    const html = e.currentTarget.value;
+    const htmlObject = document.createElement('div');
+    htmlObject.innerHTML = html;
+
+    // Search the name
+    const name = htmlObject.querySelector('.title h1')!.innerHTML.trim();
+
+    // Search the image name
+    let imageName = htmlObject
+      .querySelector('.preview img')!
+      .getAttribute('src')
+      ?.trim();
+    if (!imageName) imageName = '';
+    imageName = imageName?.replace('.webp', '');
+    imageName = imageName?.replace('.png', '');
+    imageName = imageName?.replace(
+      'https://images.gameinfo.io/pokemon/256/',
+      ''
+    );
+
+    setState({
+      ...state,
+      imageName,
+      name,
+    });
+  };
 
   const pokemonAlreadyExist = () => {
     const pokemonsCorresponding = props.pokemons.filter(
@@ -84,6 +121,19 @@ export default function AddPokemon(props: AddPokemonProps) {
       <h2 className="my-4 text-center">Add a Pokemon</h2>
       <form className="pl-4 text-sm xl:text-4xl" onSubmit={submit}>
         <div className="my-1">
+          <label className="mr-4" htmlFor="pastehtml">
+            Coller la page
+          </label>
+          <input
+            className={`rounded-xl border border-black px-2`}
+            id="pastehtml"
+            onChange={pastedHtml}
+            type="text"
+            required
+            value=""
+          />
+        </div>
+        <div className="my-1">
           <label className="mr-4" htmlFor="name">
             Nom
           </label>
@@ -105,9 +155,11 @@ export default function AddPokemon(props: AddPokemonProps) {
           <input
             className="rounded-xl  border border-black px-2"
             id="image_name"
+            onChange={imageNameChanged}
             type="text"
             ref={imageNameInput}
             required
+            value={state.imageName}
           />
         </div>
         <div>

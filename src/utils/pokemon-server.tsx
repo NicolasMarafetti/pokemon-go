@@ -164,6 +164,44 @@ async function updatePokemonFightingDurations(pokemon: Pokemon) {
   }
 }
 
+export async function updatePokemonsCombatPower() {
+  // eslint-disable-next-line no-console
+  console.log('updatePokemonsCombatPower has begin');
+
+  const pokemons = await getPokemons();
+  const combatDuration = await getCombatDuration();
+  const finalCalcuationDivider = await getFinalCalculationDivider();
+
+  const promises: Promise<any>[] = [];
+  pokemons.forEach((pokemon) => {
+    const attackPower = calculatePokemonAttackPower(
+      pokemon.attack,
+      pokemon.total_dps,
+      combatDuration
+    );
+
+    const totalPower = calculatePokemonTotalPower(
+      attackPower,
+      pokemon.defense_power,
+      finalCalcuationDivider
+    );
+
+    promises.push(
+      prisma.pokemon.update({
+        data: {
+          attack_power: attackPower,
+          total_power: totalPower,
+        },
+        where: {
+          id: pokemon.id,
+        },
+      })
+    );
+  });
+
+  Promise.all(promises);
+}
+
 export async function updatePokemonsFightingDurations() {
   const pokemons = await getPokemons();
 
@@ -173,6 +211,38 @@ export async function updatePokemonsFightingDurations() {
   }
 
   await Promise.all(promises);
+}
+
+export async function updatePokemonsMaxPotential() {
+  // eslint-disable-next-line no-console
+  console.log('updatePokemonsMaxPotential has begin');
+
+  const pokemons = await getPokemons();
+  const evolutions = await getEvolutions();
+
+  const promises: Promise<any>[] = [];
+  pokemons.forEach((pokemon) => {
+    const pokemonMaxPotential = calculatePokemonPowerMaxPotential(
+      pokemon,
+      pokemons,
+      evolutions
+    );
+
+    promises.push(
+      prisma.pokemon.update({
+        data: {
+          power_max_potential: pokemonMaxPotential,
+        },
+        where: {
+          id: pokemon.id,
+        },
+      })
+    );
+  });
+
+  await Promise.all(promises);
+
+  return true;
 }
 
 export async function updatePokemonsPowerMaxPotentialAfterAnEvolution(

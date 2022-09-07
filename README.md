@@ -8,6 +8,13 @@ Made with Next.js
 
 Running on port 3005
 
+## Get Started
+
+Clone the project
+Install dependencies
+Generate prisma client
+npm run dev
+
 ## Deployment
 
 ### Server - se souvenir du git
