@@ -6,7 +6,7 @@ import { useState } from 'react';
 import PokemonCard from '@/components/pokemon-card';
 import { Meta } from '@/layouts/Meta';
 import { Main } from '@/templates/Main';
-import { getEvolutions } from '@/utils/evolution-server';
+import { getEvolutions } from '@/utils/evolution-server-importable';
 import { getPokemons } from '@/utils/pokemon-server';
 
 interface IndexProps {

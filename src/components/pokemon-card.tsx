@@ -33,12 +33,16 @@ export default function PokemonCard(props: PokemonCardProps) {
           )}')`,
         }}
       >
-        <Image
-          alt={props.pokemon.name}
-          height={props.size === 'small' ? '80' : `128`}
-          src={getPokemonImageSource(props.pokemon.image_name)}
-          width={props.size === 'small' ? '80' : `128`}
-        />
+        {props.pokemon.name ? (
+          <Image
+            alt={props.pokemon.name}
+            height={props.size === 'small' ? '80' : `128`}
+            src={getPokemonImageSource(props.pokemon.image_name)}
+            width={props.size === 'small' ? '80' : `128`}
+          />
+        ) : (
+          <></>
+        )}
       </div>
       <div className="flex flex-col items-center justify-center">
         <h2

@@ -6,7 +6,7 @@ import {
   evolutionFindStartPokemon,
   findPokemonEvolutions,
 } from './evolution-helpers';
-import { getEvolutions } from './evolution-server';
+import { getEvolutions } from './evolution-server-importable';
 import {
   calculatePokemonAttackPower,
   calculatePokemonDefensePower,

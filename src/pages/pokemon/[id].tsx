@@ -5,7 +5,7 @@ import AddEvolutionModal from '@/components/addEvolutionModal';
 import PokemonBranch from '@/components/PokemonBranch';
 import { Meta } from '@/layouts/Meta';
 import { Main } from '@/templates/Main';
-import { getEvolutions } from '@/utils/evolution-server';
+import { getEvolutions } from '@/utils/evolution-server-importable';
 import { getPokemon, getPokemonsOrderedName } from '@/utils/pokemon-server';
 
 interface SeePokemonProps {

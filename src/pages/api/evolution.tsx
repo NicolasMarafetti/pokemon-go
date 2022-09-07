@@ -1,7 +1,6 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
 
 import { saveEvolution } from '@/utils/evolution-server';
-import { updatePokemonsPowerMaxPotentialAfterAnEvolution } from '@/utils/pokemon-server';
 
 interface AddEvolutionRequest extends NextApiRequest {
   body: {
@@ -18,14 +17,7 @@ export default async function AddEvolution(
 ) {
   const { pokemonStart, pokemonAfter, candyQuantity, specialItem } = req.body;
 
-  const evolution = await saveEvolution(
-    pokemonStart,
-    pokemonAfter,
-    candyQuantity,
-    specialItem
-  );
-
-  await updatePokemonsPowerMaxPotentialAfterAnEvolution(evolution);
+  await saveEvolution(pokemonStart, pokemonAfter, candyQuantity, specialItem);
 
   return res.status(200).json({});
 }

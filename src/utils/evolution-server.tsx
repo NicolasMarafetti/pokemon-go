@@ -1,16 +1,14 @@
+import type { Evolution } from '@prisma/client';
+
 import prisma from '@/lib/prisma';
 
-export async function getEvolutions() {
-  const evolutions = await prisma.evolution.findMany({});
-
-  return evolutions;
-}
+import { updatePokemonsPowerMaxPotentialAfterAnEvolution } from './pokemon-server';
 
 export async function saveEvolution(
   pokemonStart: string,
   pokemonAfter: string,
   candyQuantity: number,
-  specialItem?: string
+  specialItem?: string | null
 ) {
   const evolution = await prisma.evolution.create({
     data: {
@@ -21,5 +19,23 @@ export async function saveEvolution(
     },
   });
 
+  await updatePokemonsPowerMaxPotentialAfterAnEvolution(evolution);
+
   return evolution;
+}
+
+export async function saveEvolutions(evolutions: Evolution[]) {
+  const promises: Promise<any>[] = [];
+  evolutions.forEach((evolutionTmp) => {
+    promises.push(
+      saveEvolution(
+        evolutionTmp.pokemon_start,
+        evolutionTmp.pokemon_after,
+        evolutionTmp.candy_quantity,
+        evolutionTmp.special_item
+      )
+    );
+  });
+
+  await Promise.all(promises);
 }

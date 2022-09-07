@@ -52,6 +52,8 @@ export function findPokemonMaxPotential(
 }
 
 export function getPokemonTypeBackgroundSource(pokemonMainType: string) {
+  if (!pokemonMainType) return '';
+
   let typeForUrl = pokemonMainType;
   if (pokemonMainType === 'acier') typeForUrl = 'steel';
   if (pokemonMainType === 'roche') typeForUrl = 'rock';
@@ -71,5 +73,22 @@ export function getPokemonTypeBackgroundSource(pokemonMainType: string) {
 }
 
 export function getPokemonImageSource(pokemonImageName: string) {
-  return `https://images.gameinfo.io/pokemon/256/${pokemonImageName}.png`;
+  return pokemonImageName
+    ? `https://images.gameinfo.io/pokemon/256/${pokemonImageName}.png`
+    : '';
+}
+
+export function searchPokemonIdWithName(
+  pokemons: Pokemon[],
+  pokemonName: string
+): string | null {
+  let pokemonId = null;
+
+  pokemons.forEach((pokemonTest) => {
+    if (pokemonTest.name === pokemonName) {
+      pokemonId = pokemonTest.id;
+    }
+  });
+
+  return pokemonId;
 }
