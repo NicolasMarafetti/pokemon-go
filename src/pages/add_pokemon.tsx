@@ -146,7 +146,8 @@ export default function AddPokemon(props: AddPokemonProps) {
       const gens = branch.querySelectorAll('.gen');
 
       gens.forEach((gen, index) => {
-        const pokemonIsActive = !!gen.querySelector('.item.active');
+        const activeItem = gen.querySelector('.item.active');
+        const pokemonIsActive = !!activeItem;
 
         if (pokemonIsActive) {
           // Search evolutions before
@@ -169,13 +170,13 @@ export default function AddPokemon(props: AddPokemonProps) {
                 if (previousPokemonId) {
                   // Search the candy cost
                   const candyQuantity = parseInt(
-                    gen.querySelector('.cost')!.innerHTML,
+                    activeItem.querySelector('.cost')!.innerHTML,
                     10
                   );
 
                   // Search if there's an evolution item
                   const evolutionItemSelector =
-                    gen.querySelector('.ev-item img');
+                    activeItem.querySelector('.ev-item img');
                   const evolutionItem = evolutionItemSelector
                     ? evolutionItemSelector.getAttribute('alt')
                     : null;
