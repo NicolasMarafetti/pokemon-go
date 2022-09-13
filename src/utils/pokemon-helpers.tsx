@@ -93,3 +93,17 @@ export function searchPokemonIdWithName(
 
   return pokemonId;
 }
+
+export function searchPokemonIdWithNames(
+  pokemons: Pokemon[],
+  pokemonNames: string[]
+): string | null {
+  let pokemonId = null;
+
+  pokemonNames.forEach((pokemonNameTest) => {
+    const pokemonIdTest = searchPokemonIdWithName(pokemons, pokemonNameTest);
+    if (pokemonIdTest) pokemonId = pokemonIdTest;
+  });
+
+  return pokemonId;
+}

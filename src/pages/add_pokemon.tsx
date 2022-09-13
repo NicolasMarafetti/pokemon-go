@@ -11,7 +11,10 @@ import { Meta } from '@/layouts/Meta';
 import prisma from '@/lib/prisma';
 import { Main } from '@/templates/Main';
 import { getEvolutions } from '@/utils/evolution-server-importable';
-import { searchPokemonIdWithName } from '@/utils/pokemon-helpers';
+import {
+  searchPokemonIdWithName,
+  searchPokemonIdWithNames,
+} from '@/utils/pokemon-helpers';
 
 const ObjectID = require('bson-objectid');
 
@@ -158,13 +161,24 @@ export default function AddPokemon(props: AddPokemonProps) {
 
             previousEvolutionsGenSelectores.forEach(
               (previousEvolutionSelector) => {
-                const previousPokemonName =
+                const searchNames = [];
+
+                let previousPokemonName =
                   previousEvolutionSelector.querySelector('.name')!.innerHTML;
+                previousPokemonName = previousPokemonName.replace('<br>', '');
+                searchNames.push(previousPokemonName);
+
+                // S'il y a une parenthèse dans le nom on essaye de les remplacés par un tiret
+                if (previousPokemonName.indexOf('(')) {
+                  let otherNameTest = previousPokemonName.replace('(', '- ');
+                  otherNameTest = otherNameTest.replace(')', '');
+                  searchNames.push(otherNameTest);
+                }
 
                 // Search the previous pokemon id
-                const previousPokemonId = searchPokemonIdWithName(
+                const previousPokemonId = searchPokemonIdWithNames(
                   props.pokemons,
-                  previousPokemonName
+                  searchNames
                 );
 
                 if (previousPokemonId) {
