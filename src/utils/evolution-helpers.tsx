@@ -142,6 +142,8 @@ export function getEvolutionSpecialItemSource(specialItem: string) {
       return 'https://images.gameinfo.io/items/48/bag-sinnoh-stone-sprite.png';
     case 'Pierre Unys':
       return 'https://images.gameinfo.io/items/48/bag-unova-stone-sprite.png';
+    case 'Roche Royale':
+      return 'https://images.gameinfo.io/items/48/bag-kings-rock-sprite.png';
     default:
       return '';
   }

@@ -56,16 +56,17 @@ export function getPokemonTypeBackgroundSource(pokemonMainType: string) {
 
   let typeForUrl = pokemonMainType;
   if (pokemonMainType === 'acier') typeForUrl = 'steel';
-  if (pokemonMainType === 'roche') typeForUrl = 'rock';
   if (pokemonMainType === 'eau') typeForUrl = 'water';
   if (pokemonMainType === 'feu') typeForUrl = 'fire';
   if (pokemonMainType === 'combat') typeForUrl = 'fighting';
   if (pokemonMainType === 'electrik') typeForUrl = 'electric';
+  if (pokemonMainType === 'glace') typeForUrl = 'ice';
   if (pokemonMainType === 'sol') typeForUrl = 'ground';
   if (pokemonMainType === 'psy') typeForUrl = 'psychic';
   if (pokemonMainType === 'insecte') typeForUrl = 'bug';
   if (pokemonMainType === 'fee') typeForUrl = 'fairy';
   if (pokemonMainType === 'plante') typeForUrl = 'grass';
+  if (pokemonMainType === 'roche') typeForUrl = 'rock';
   if (pokemonMainType === 'spectre') typeForUrl = 'ghost';
   if (pokemonMainType === 'tenebres') typeForUrl = 'dark';
 

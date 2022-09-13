@@ -10,11 +10,13 @@ import PokemonBranch from '@/components/PokemonBranch';
 import { Meta } from '@/layouts/Meta';
 import prisma from '@/lib/prisma';
 import { Main } from '@/templates/Main';
+import { getEvolutions } from '@/utils/evolution-server-importable';
 import { searchPokemonIdWithName } from '@/utils/pokemon-helpers';
 
 const ObjectID = require('bson-objectid');
 
 interface AddPokemonProps {
+  evolutions: Evolution[];
   pokemons: Pokemon[];
 }
 
@@ -510,7 +512,7 @@ export default function AddPokemon(props: AddPokemonProps) {
             <h3>Evolutions</h3>
             <PokemonBranch
               directions="both"
-              evolutions={state.evolutions}
+              evolutions={[...props.evolutions, ...state.evolutions]}
               mainPokemon={true}
               pokemonId="a"
               pokemons={[...props.pokemons, state.pokemon]}
@@ -535,6 +537,7 @@ export default function AddPokemon(props: AddPokemonProps) {
 export async function getServerSideProps() {
   return {
     props: {
+      evolutions: await getEvolutions(),
       pokemons: await prisma.pokemon.findMany({}),
     },
   };
